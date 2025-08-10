@@ -1,0 +1,29 @@
+Mode Cau ca.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:398,52,160,126
+offsets:1,1,162,128
+Bong nuoc
+bounds:2,31,194,147
+offsets:1,1,196,149
+Handle 01
+bounds:198,89,89,198
+offsets:1,1,91,200
+rotate:90
+Handle 02
+bounds:2,180,46,612
+rotate:90
+Hat
+bounds:616,20,338,206
+Head
+bounds:198,2,156,85
+offsets:1,1,158,87
+Rotate Handle
+bounds:560,114,64,23
+offsets:1,1,66,25
+rotate:90
+Vector Smart Object
+bounds:956,151,50,75
+offsets:1,1,52,77

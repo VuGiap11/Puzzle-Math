@@ -1,0 +1,52 @@
+Heroes-02-Ninja.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+01 Eye L
+bounds:44,91,32,39
+offsets:0,0,33,39
+01 Eye R
+bounds:44,91,32,39
+offsets:0,0,33,39
+02 Eye L
+bounds:201,101,42,29
+offsets:1,0,44,30
+02 Eye R
+bounds:201,70,42,29
+offsets:1,0,44,30
+Body
+bounds:2,2,86,94
+rotate:90
+Bongdo
+bounds:233,186,66,21
+offsets:2,1,70,23
+rotate:90
+Foot L
+bounds:174,12,35,56
+Foot R
+bounds:211,12,35,56
+Hand L
+bounds:98,10,81,36
+rotate:90
+Hand R
+bounds:136,10,81,36
+offsets:0,0,81,37
+rotate:90
+Head
+bounds:98,132,133,120
+offsets:0,0,134,121
+Tai L
+bounds:44,204,52,48
+Tai R
+bounds:44,149,53,49
+offsets:1,0,54,49
+rotate:90
+Tail
+bounds:78,93,37,121
+rotate:90
+Wepon
+bounds:2,90,40,162
+offsets:1,0,42,162
+cat02-eye
+bounds:233,161,20,23

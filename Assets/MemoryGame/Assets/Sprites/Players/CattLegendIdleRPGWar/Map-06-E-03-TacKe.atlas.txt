@@ -1,0 +1,46 @@
+Map-06-E-03-TacKe.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Bongdo
+bounds:26,30,45,13
+offsets:1,1,47,15
+Eye L
+bounds:122,197,57,55
+offsets:1,1,59,57
+rotate:90
+Eye R
+bounds:122,143,52,52
+offsets:1,1,54,54
+Foot L 01
+bounds:26,12,31,16
+offsets:1,1,33,18
+Foot L 02
+bounds:92,11,15,32
+offsets:1,2,17,35
+Foot L 03
+bounds:126,15,28,17
+offsets:1,1,30,20
+rotate:90
+Foot R 01
+bounds:59,12,31,16
+offsets:1,1,33,18
+Foot R 02
+bounds:109,11,15,32
+offsets:1,4,17,37
+Foot R 03
+bounds:145,15,28,17
+offsets:1,1,30,20
+rotate:90
+Hair
+bounds:2,2,22,41
+offsets:1,1,24,43
+Head
+bounds:2,125,118,129
+Mouth
+bounds:165,8,133,46
+offsets:2,1,136,48
+rotate:90
+Tail
+bounds:2,45,78,161
+rotate:90

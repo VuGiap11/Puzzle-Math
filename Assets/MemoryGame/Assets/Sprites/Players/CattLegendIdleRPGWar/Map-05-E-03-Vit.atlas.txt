@@ -1,0 +1,43 @@
+Map-05-E-03-Vit.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,147,119,98
+offsets:2,0,121,98
+Bongdo
+bounds:107,100,45,13
+offsets:1,1,47,15
+rotate:90
+Eye R
+bounds:122,105,31,31
+offsets:1,1,33,33
+Foot L
+bounds:67,45,41,35
+rotate:90
+Foot R
+bounds:67,2,41,35
+rotate:90
+Hair
+bounds:107,40,58,74
+offsets:1,1,60,76
+rotate:90
+Hand L
+bounds:195,200,23,45
+offsets:1,0,25,46
+Hand R
+bounds:155,112,24,43
+rotate:90
+Head
+bounds:123,138,107,70
+rotate:90
+Mouth
+bounds:2,39,106,63
+offsets:1,1,108,65
+rotate:90
+Rau
+bounds:67,88,57,38
+rotate:90
+Tail
+bounds:2,4,33,51
+rotate:90

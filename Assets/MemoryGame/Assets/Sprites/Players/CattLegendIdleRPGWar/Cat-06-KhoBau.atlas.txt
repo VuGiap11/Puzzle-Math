@@ -1,0 +1,59 @@
+Cat-06-KhoBau.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Arm R
+bounds:138,108,18,18
+offsets:1,1,20,20
+Arm
+bounds:138,108,18,18
+offsets:1,1,20,20
+Body
+bounds:2,58,68,62
+rotate:90
+Bongdo
+bounds:71,17,39,12
+offsets:1,1,41,14
+rotate:90
+Eye L
+bounds:44,2,6,7
+offsets:1,1,8,9
+Eye R
+bounds:35,2,7,7
+offsets:1,1,9,9
+Magnifier (merged)
+bounds:35,11,34,45
+offsets:1,1,36,47
+Mustache
+bounds:71,4,34,11
+offsets:1,1,36,13
+SafariHat
+bounds:129,63,28,20
+offsets:1,1,30,22
+rotate:90
+Tai L
+bounds:66,58,27,29
+rotate:90
+Tai R
+bounds:104,29,28,26
+offsets:0,0,29,26
+rotate:90
+Tail
+bounds:85,20,36,17
+offsets:1,0,37,18
+rotate:90
+fx-blink
+bounds:66,87,38,39
+offsets:5,5,49,49
+fx-blink copy
+bounds:107,4,23,23
+offsets:4,4,30,31
+treasure-scepter
+bounds:2,5,31,51
+offsets:1,1,33,53
+treasure-scepter 1
+bounds:106,93,30,33
+offsets:1,1,32,35
+treasure-scepter 2
+bounds:97,59,30,26
+offsets:1,1,32,28

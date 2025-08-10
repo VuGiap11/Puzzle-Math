@@ -1,0 +1,74 @@
+Map-03-Boss-01-Lacda.png
+size:256,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,338,157,131
+rotate:90
+Bongdo
+bounds:175,183,70,21
+offsets:2,1,74,24
+rotate:90
+Buou 01
+bounds:211,449,41,46
+offsets:1,1,43,48
+Buou 02
+bounds:157,349,54,66
+offsets:1,1,56,68
+rotate:90
+E Body
+bounds:211,407,40,43
+offsets:1,1,42,45
+rotate:90
+E Cloak
+bounds:220,168,18,21
+offsets:1,1,20,23
+E Foot R
+bounds:209,107,19,32
+offsets:1,1,21,34
+rotate:90
+E Head
+bounds:128,255,73,81
+offsets:1,1,75,83
+E hand L
+bounds:209,128,43,20
+offsets:1,1,45,22
+E hand R
+bounds:198,215,38,21
+offsets:1,1,40,23
+rotate:90
+Eye
+bounds:175,150,31,43
+offsets:1,1,33,45
+rotate:90
+Foot L 01
+bounds:128,106,38,79
+rotate:90
+Foot R 01
+bounds:128,106,38,79
+rotate:90
+Foot L 02
+bounds:128,146,45,107
+Foot R 02
+bounds:128,146,45,107
+Head 02
+bounds:2,101,235,124
+offsets:1,2,237,127
+rotate:90
+Layer 103
+bounds:198,191,22,31
+offsets:2,1,25,33
+rotate:90
+Mouth
+bounds:157,405,90,52
+offsets:1,1,92,54
+rotate:90
+Neck
+bounds:2,3,96,183
+rotate:90
+Tail
+bounds:187,2,29,102
+offsets:0,0,30,102
+day 01
+bounds:135,350,145,20
+rotate:90

@@ -1,0 +1,26 @@
+Mode Ong.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.96
+Body
+bounds:71,18,50,48
+Bongdo
+bounds:2,45,67,21
+offsets:1,1,71,23
+Eye L
+bounds:66,4,12,16
+rotate:90
+Eye R
+bounds:23,2,12,16
+rotate:90
+Wing L 01
+bounds:2,20,23,31
+offsets:0,0,23,32
+rotate:90
+Wing R 01
+bounds:35,16,27,29
+offsets:0,0,28,29
+rotate:90
+Wing R 02
+bounds:2,6,19,12

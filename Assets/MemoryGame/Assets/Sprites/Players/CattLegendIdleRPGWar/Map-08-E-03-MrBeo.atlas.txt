@@ -1,0 +1,37 @@
+Map-08-E-03-MrBeo.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:99,47,48,77
+offsets:0,0,49,77
+Bongdo
+bounds:2,6,45,13
+offsets:1,1,47,15
+Eye
+bounds:185,92,55,32
+offsets:1,1,57,34
+Foot L
+bounds:215,14,36,42
+offsets:0,0,37,42
+Foot R
+bounds:185,58,32,43
+rotate:90
+Hair
+bounds:172,5,48,41
+offsets:1,1,50,43
+rotate:90
+Hand L
+bounds:99,9,71,36
+offsets:1,0,73,36
+Hand R
+bounds:149,55,69,34
+offsets:0,0,69,36
+rotate:90
+Head
+bounds:2,21,103,95
+offsets:21,1,125,97
+rotate:90
+Mouth
+bounds:49,2,17,17
+offsets:1,1,19,19

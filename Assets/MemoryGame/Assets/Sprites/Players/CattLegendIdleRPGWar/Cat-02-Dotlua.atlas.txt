@@ -1,0 +1,59 @@
+Cat-02-Dotlua.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body 01
+bounds:72,57,69,61
+rotate:90
+Body 02
+bounds:2,57,68,69
+Bongdo
+bounds:2,4,39,12
+offsets:1,1,41,14
+Eye L
+bounds:66,2,6,7
+offsets:1,1,8,9
+Eye L 01
+bounds:43,6,21,11
+offsets:1,1,23,13
+Eye R 01
+bounds:43,6,21,11
+offsets:1,1,23,13
+Eye L 02
+bounds:74,5,4,4
+offsets:1,1,6,6
+Eye R 02
+bounds:74,5,4,4
+offsets:1,1,6,6
+Eye R
+bounds:66,11,7,7
+offsets:1,1,9,9
+Hand L
+bounds:96,37,18,18
+offsets:1,1,20,20
+Hand R
+bounds:96,37,18,18
+offsets:1,1,20,20
+Layer 115 copy 2
+bounds:70,36,24,19
+offsets:1,1,26,21
+Layer 25 copy
+bounds:2,18,25,37
+offsets:1,1,27,39
+Mouth
+bounds:47,22,15,9
+offsets:1,1,17,11
+Stone
+bounds:64,20,11,9
+offsets:1,2,13,12
+rotate:90
+Tai L
+bounds:47,33,21,22
+Tai R
+bounds:75,12,22,20
+offsets:1,0,23,20
+rotate:90
+Tail
+bounds:29,19,36,16
+offsets:1,0,37,17
+rotate:90

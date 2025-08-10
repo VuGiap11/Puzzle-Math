@@ -1,0 +1,35 @@
+Pet-01-Carot-04.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,36,118,145
+Bongdo
+bounds:122,111,70,21
+offsets:1,1,74,24
+rotate:90
+Eye L
+bounds:205,159,27,10
+offsets:1,1,29,12
+Eye R
+bounds:205,171,30,10
+offsets:1,1,32,12
+Hair  01
+bounds:145,150,31,58
+rotate:90
+Hair  02
+bounds:145,121,59,27
+offsets:0,0,59,28
+Hair  03
+bounds:122,78,31,65
+offsets:0,1,31,66
+rotate:90
+Mi L
+bounds:122,49,56,27
+offsets:1,1,58,29
+Mi R
+bounds:85,2,62,32
+offsets:1,2,64,35
+Mouth
+bounds:2,2,81,32
+offsets:1,1,83,34

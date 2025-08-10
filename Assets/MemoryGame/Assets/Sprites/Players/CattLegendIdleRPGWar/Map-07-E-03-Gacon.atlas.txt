@@ -1,0 +1,34 @@
+Map-07-E-03-Gacon.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,23,103,139
+rotate:90
+Bongdo
+bounds:2,8,45,13
+offsets:1,1,47,15
+Eye L
+bounds:143,2,36,39
+offsets:1,1,38,41
+Eye R
+bounds:143,75,51,55
+offsets:1,1,53,57
+rotate:90
+Foot L
+bounds:200,98,28,48
+rotate:90
+Foot R
+bounds:200,68,28,48
+rotate:90
+Mouth
+bounds:185,43,27,23
+offsets:1,1,29,25
+Wing L
+bounds:143,43,30,40
+offsets:1,1,32,42
+rotate:90
+Wing R
+bounds:181,11,30,40
+offsets:1,1,32,42
+rotate:90

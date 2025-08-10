@@ -1,0 +1,39 @@
+Pet-04-Chicken-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,24,134,133
+Bongdo
+bounds:138,92,70,21
+offsets:1,1,74,24
+Eye L
+bounds:219,88,32,41
+offsets:1,1,34,43
+Eye R
+bounds:219,88,32,41
+offsets:1,1,34,43
+Foot L
+bounds:190,12,30,32
+rotate:90
+Foot R
+bounds:224,10,30,32
+Hair
+bounds:138,115,79,42
+Hand R
+bounds:138,2,44,50
+rotate:90
+Heart
+bounds:219,131,35,26
+offsets:1,1,37,28
+Mouth 01
+bounds:194,53,37,17
+offsets:1,1,39,19
+rotate:90
+Mouth 02
+bounds:213,44,42,36
+offsets:1,1,44,38
+rotate:90
+Tail
+bounds:138,48,42,54
+rotate:90

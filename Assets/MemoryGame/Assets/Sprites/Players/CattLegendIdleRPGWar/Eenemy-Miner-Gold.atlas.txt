@@ -1,0 +1,103 @@
+Eenemy-Miner-Gold.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+Banh xe
+bounds:122,89,36,37
+offsets:0,0,37,37
+Body
+bounds:138,3,34,40
+offsets:1,0,36,40
+Bongdo
+bounds:160,60,66,21
+offsets:1,1,70,23
+rotate:90
+Can Gat 01
+bounds:46,36,25,74
+offsets:1,0,27,74
+Can Gat 02
+bounds:221,188,25,21
+offsets:1,0,27,21
+Eye L
+bounds:122,25,17,14
+offsets:1,0,18,14
+rotate:90
+Eye R
+bounds:154,46,12,18
+rotate:90
+Foot L 01
+bounds:206,13,19,18
+offsets:1,0,21,18
+Foot L 03
+bounds:44,12,21,22
+offsets:0,0,22,22
+Foot R 01
+bounds:227,12,19,18
+offsets:1,0,21,18
+rotate:90
+Foot R 03
+bounds:122,132,22,22
+Gold 01
+bounds:174,3,30,28
+offsets:1,1,32,29
+Gold 02
+bounds:2,64,42,46
+offsets:1,1,44,48
+Gold 03
+bounds:73,2,34,35
+offsets:1,1,36,37
+rotate:90
+Gold 04
+bounds:2,17,40,45
+offsets:1,1,42,47
+Hand L 01
+bounds:138,45,42,14
+offsets:0,0,43,14
+rotate:90
+Hand L 02
+bounds:183,107,17,19
+offsets:1,1,18,20
+Hand L 03
+bounds:230,45,19,18
+offsets:1,0,20,19
+rotate:90
+Hand R 01
+bounds:122,44,43,14
+offsets:0,1,43,15
+rotate:90
+Hand R 02
+bounds:110,3,26,20
+offsets:1,0,27,21
+Hat
+bounds:2,112,76,42
+offsets:1,0,77,43
+Head 01
+bounds:158,128,58,50
+offsets:1,1,60,51
+rotate:90
+Head 02
+bounds:183,33,45,31
+offsets:1,0,47,31
+Light
+bounds:221,211,32,41
+offsets:0,1,33,45
+Mui
+bounds:183,88,17,16
+offsets:1,0,19,16
+rotate:90
+Thung xe 01
+bounds:80,38,116,40
+offsets:1,0,117,40
+rotate:90
+Thung xe 02
+bounds:2,156,154,96
+offsets:1,0,156,96
+Thung xe 03
+bounds:210,66,120,43
+offsets:1,1,121,45
+rotate:90
+bua riu
+bounds:158,188,64,61
+offsets:1,1,66,63
+rotate:90

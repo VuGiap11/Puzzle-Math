@@ -1,0 +1,54 @@
+Cat-15-NguoiMay.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+Body
+bounds:131,168,86,100
+rotate:90
+Bongdo
+bounds:233,188,66,21
+offsets:2,1,70,23
+rotate:90
+Eye
+bounds:79,24,36,40
+offsets:0,0,36,41
+Foot L
+bounds:2,2,38,62
+Foot R
+bounds:42,2,35,62
+Hand L 01
+bounds:131,129,87,37
+offsets:0,0,87,38
+Hand R 01
+bounds:207,16,88,44
+rotate:90
+Head
+bounds:2,123,127,131
+offsets:1,1,129,133
+Rau L 01
+bounds:220,111,26,6
+offsets:1,2,28,10
+rotate:90
+Rau L 02
+bounds:220,139,27,6
+offsets:1,2,29,10
+rotate:90
+Rau R 01
+bounds:233,145,41,15
+offsets:0,1,41,16
+rotate:90
+Rau R 02
+bounds:228,106,37,15
+offsets:1,1,39,17
+rotate:90
+Siel Foot R
+bounds:117,31,33,37
+offsets:1,0,34,37
+rotate:90
+Tail
+bounds:165,2,125,40
+rotate:90
+Wepon
+bounds:2,66,161,55
+offsets:0,1,161,56

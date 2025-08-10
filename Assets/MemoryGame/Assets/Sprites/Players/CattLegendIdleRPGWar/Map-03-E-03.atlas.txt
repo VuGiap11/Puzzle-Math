@@ -1,0 +1,27 @@
+Map-03-E-03.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Bongdo
+bounds:240,16,44,14
+offsets:1,1,46,16
+rotate:90
+Eye L
+bounds:209,23,29,37
+offsets:1,1,31,39
+Eye R
+bounds:209,62,35,42
+offsets:1,1,37,44
+Head
+bounds:2,27,91,77
+offsets:7,1,99,79
+Layer 121
+bounds:95,40,64,112
+rotate:90
+Layer 122
+bounds:95,6,106,32
+offsets:0,0,106,39
+Mouth
+bounds:203,2,19,11
+offsets:1,1,21,13
+rotate:90

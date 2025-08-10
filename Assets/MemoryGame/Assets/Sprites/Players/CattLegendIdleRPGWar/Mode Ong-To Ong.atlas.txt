@@ -1,0 +1,27 @@
+Mode Ong-To Ong.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Bongdo
+bounds:173,196,70,21
+offsets:1,1,74,24
+Canh
+bounds:2,140,169,77
+offsets:1,1,171,79
+La 01
+bounds:140,90,48,39
+offsets:1,1,50,41
+rotate:90
+La 02
+bounds:140,48,26,40
+offsets:1,1,28,42
+La 03
+bounds:140,16,30,36
+offsets:1,1,32,38
+rotate:90
+Mat
+bounds:173,161,50,33
+offsets:1,1,52,35
+To Ong
+bounds:2,2,136,136
+offsets:1,1,138,138

@@ -1,0 +1,63 @@
+Cat-05-Maybay.png
+size:256,512
+filter:Linear,Linear
+pma:true
+scale:0.9
+Body
+bounds:2,360,241,150
+Bongdo
+bounds:227,294,64,20
+offsets:1,1,67,22
+rotate:90
+Cat05-eye
+bounds:227,273,19,22
+rotate:90
+Dau Canh quat
+bounds:145,10,34,53
+Eye L
+bounds:181,10,31,37
+offsets:0,0,32,37
+Eye R
+bounds:214,16,31,37
+offsets:0,0,32,37
+rotate:90
+Fire 01
+bounds:38,52,60,35
+offsets:1,1,62,37
+rotate:90
+Fire 02
+bounds:145,113,40,59
+offsets:0,1,41,61
+rotate:90
+Fly 01
+bounds:2,32,80,34
+rotate:90
+Fly 02
+bounds:131,218,140,94
+rotate:90
+Layer 60
+bounds:2,245,127,113
+offsets:0,0,127,114
+Neck
+bounds:77,155,88,35
+rotate:90
+Tai L
+bounds:197,49,44,42
+Tai R
+bounds:145,65,50,46
+Wepon
+bounds:206,93,60,39
+offsets:0,0,60,40
+rotate:90
+Wing  02
+bounds:2,2,65,28
+offsets:0,0,66,28
+Wing R
+bounds:114,155,133,61
+offsets:0,0,134,61
+canh quat 1
+bounds:77,17,66,136
+offsets:1,0,68,136
+canh quat 2
+bounds:2,114,73,129
+offsets:1,0,74,129

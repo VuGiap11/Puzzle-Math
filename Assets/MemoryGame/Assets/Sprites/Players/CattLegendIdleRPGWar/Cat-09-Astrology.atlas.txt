@@ -1,0 +1,77 @@
+Cat-09-Astrology.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Arm copy
+bounds:2,2,18,18
+offsets:1,1,20,20
+Arm
+bounds:2,2,18,18
+offsets:1,1,20,20
+Body
+bounds:134,51,69,69
+Charm 1
+bounds:245,135,6,9
+offsets:1,1,8,11
+rotate:90
+Charm 2
+bounds:245,127,6,8
+offsets:1,1,8,10
+rotate:90
+Charm 3
+bounds:242,119,6,10
+offsets:1,1,8,12
+rotate:90
+Charm 4
+bounds:242,112,5,8
+offsets:1,1,7,10
+rotate:90
+Charm 5
+bounds:242,112,5,8
+offsets:1,1,7,10
+rotate:90
+CrystalSphere
+bounds:74,63,57,51
+offsets:1,1,59,53
+Eye L
+bounds:242,95,6,7
+offsets:1,1,8,9
+rotate:90
+Eye R
+bounds:242,103,7,7
+offsets:1,1,9,9
+Fx 01
+bounds:2,64,70,70
+offsets:1,1,72,72
+Fx 02
+bounds:71,11,50,50
+offsets:1,1,52,52
+Hair-Bang
+bounds:74,116,58,18
+Hair-L
+bounds:215,128,13,28
+offsets:1,1,15,30
+rotate:90
+Hair-Rear
+bounds:136,122,77,54
+Hair_R
+bounds:205,34,23,44
+rotate:90
+Hat
+bounds:2,22,67,40
+HeadChain
+bounds:215,59,67,25
+rotate:90
+Mouth
+bounds:242,76,17,5
+offsets:1,1,19,7
+rotate:90
+Star 01
+bounds:215,143,33,33
+offsets:1,1,35,35
+Star 02
+bounds:22,2,18,18
+offsets:1,2,20,21
+Table
+bounds:2,136,132,40
+offsets:1,1,134,42

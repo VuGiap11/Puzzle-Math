@@ -1,0 +1,27 @@
+Map-05-E-01.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.95
+Body
+bounds:2,9,116,134
+rotate:90
+Bongdo
+bounds:138,2,42,13
+offsets:1,1,44,15
+Eye L
+bounds:195,21,29,52
+Eye R
+bounds:195,75,50,46
+offsets:0,1,50,47
+rotate:90
+Foot 00
+bounds:138,17,108,55
+rotate:90
+Foot L
+bounds:226,3,33,20
+rotate:90
+Foot R
+bounds:226,38,35,21
+offsets:0,0,36,22
+rotate:90

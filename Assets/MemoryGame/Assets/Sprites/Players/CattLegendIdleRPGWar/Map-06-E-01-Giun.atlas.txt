@@ -1,0 +1,23 @@
+Map-06-E-01-Giun.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,26,135,129
+Bongdo
+bounds:226,110,45,13
+offsets:1,1,47,15
+rotate:90
+Eye
+bounds:139,52,56,67
+offsets:1,1,58,69
+rotate:90
+Foot
+bounds:139,110,85,45
+Rau L
+bounds:139,2,48,67
+offsets:1,0,49,67
+rotate:90
+Rau R
+bounds:208,55,29,53
+offsets:0,0,30,53

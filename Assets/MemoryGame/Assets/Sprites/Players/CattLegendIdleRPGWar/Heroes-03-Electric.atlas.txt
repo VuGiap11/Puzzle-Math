@@ -1,0 +1,93 @@
+Heroes-03-Electric.png
+size:512,256
+filter:Linear,Linear
+pma:true
+01 Eye L
+bounds:328,213,33,39
+offsets:1,1,35,41
+01 Eye R
+bounds:328,213,33,39
+offsets:1,1,35,41
+02 Eye L
+bounds:375,75,44,30
+offsets:1,1,46,32
+rotate:90
+02 Eye R
+bounds:399,29,44,30
+offsets:1,1,46,32
+rotate:90
+Balo
+bounds:279,197,47,55
+offsets:1,1,49,57
+Body
+bounds:2,2,90,99
+rotate:90
+Bong
+bounds:357,21,41,40
+offsets:1,2,43,44
+rotate:90
+Bong 01
+bounds:363,217,23,35
+offsets:1,2,25,38
+Bong 02
+bounds:390,148,30,22
+offsets:1,2,32,25
+rotate:90
+Bong 03
+bounds:404,201,20,25
+offsets:1,1,22,27
+Bong 04
+bounds:402,125,26,21
+offsets:1,1,29,24
+Bongdo
+bounds:318,145,70,21
+offsets:2,1,74,24
+Cat03-eye
+bounds:388,228,21,24
+Foot L
+bounds:279,136,37,59
+Foot R
+bounds:314,64,37,59
+rotate:90
+Hand L
+bounds:183,15,85,39
+Hand R
+bounds:270,15,85,39
+offsets:0,0,85,40
+Hat
+bounds:2,94,158,134
+offsets:1,1,160,136
+rotate:90
+Head
+bounds:138,112,139,140
+offsets:1,1,141,142
+Tail
+bounds:183,56,40,129
+rotate:90
+Wepon 01
+bounds:103,6,78,86
+offsets:1,1,80,88
+Wepon 02 01
+bounds:318,168,27,60
+offsets:1,1,29,62
+rotate:90
+Wepon 02 02
+bounds:340,121,22,60
+offsets:1,1,24,62
+rotate:90
+Wepon 02 03
+bounds:399,5,22,47
+rotate:90
+Wepon 02 05
+bounds:279,103,59,31
+Wepon 04
+bounds:171,98,12,30
+offsets:1,1,14,32
+rotate:90
+Wepon 05
+bounds:138,96,14,31
+offsets:1,1,16,33
+rotate:90
+Wepon 06
+bounds:380,180,22,35
+offsets:1,1,24,37

@@ -1,0 +1,57 @@
+Map-10-Boss-01-Oto.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Banh 01 01
+bounds:331,90,109,125
+Banh 01 02
+bounds:386,354,125,122
+offsets:1,1,127,125
+rotate:90
+Banh 02 01
+bounds:386,217,121,135
+Banh 02 02
+bounds:188,131,143,141
+offsets:1,1,145,143
+rotate:90
+Body
+bounds:331,218,50,56
+offsets:0,0,51,56
+Body 01
+bounds:2,276,382,203
+offsets:1,1,384,205
+Body 02
+bounds:2,121,153,184
+offsets:11,1,165,186
+rotate:90
+Body 03
+bounds:188,24,105,92
+offsets:1,1,107,94
+rotate:90
+Bongdo
+bounds:101,18,70,21
+offsets:2,1,74,24
+rotate:90
+E Eye L
+bounds:78,4,17,24
+offsets:1,1,19,26
+E Eye R
+bounds:2,2,26,31
+offsets:1,1,28,33
+rotate:90
+E Foot R
+bounds:124,51,24,37
+offsets:1,1,26,39
+E Hand L 01
+bounds:35,3,41,25
+E Hand L 02
+bounds:101,90,29,28
+offsets:1,1,32,30
+rotate:90
+E Hand R
+bounds:282,70,59,29
+offsets:0,1,59,30
+rotate:90
+E Head
+bounds:2,30,97,89
+offsets:1,1,99,91

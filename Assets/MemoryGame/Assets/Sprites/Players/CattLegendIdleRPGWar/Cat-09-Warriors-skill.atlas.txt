@@ -1,0 +1,25 @@
+Cat-09-Warriors-skill.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Pose Body
+bounds:133,107,91,120
+Pose Hair
+bounds:85,43,79,45
+rotate:90
+Pose Hand R
+bounds:189,24,48,81
+Pose Head
+bounds:2,124,129,103
+offsets:1,1,131,105
+Pose Head Siel 01
+bounds:132,12,93,55
+offsets:1,1,96,57
+rotate:90
+Pose Head Siel 02
+bounds:2,2,81,120
+offsets:1,1,84,122
+Pose Wepon
+bounds:226,159,68,27
+offsets:0,0,68,28
+rotate:90

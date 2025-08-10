@@ -1,0 +1,80 @@
+Boss-League-01.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+Body
+bounds:2,114,117,140
+Bongdo
+bounds:152,10,66,21
+offsets:2,1,70,23
+Eye L
+bounds:191,201,15,18
+offsets:1,1,17,20
+rotate:90
+Eye R
+bounds:178,68,20,23
+offsets:1,1,22,25
+rotate:90
+Foot L 01
+bounds:156,150,47,29
+offsets:1,1,49,31
+rotate:90
+Foot L 02
+bounds:220,119,26,40
+offsets:1,1,28,42
+Foot L 03
+bounds:220,70,47,22
+offsets:1,1,48,24
+rotate:90
+Foot R 01
+bounds:156,119,46,29
+offsets:1,1,48,31
+Foot R 02
+bounds:223,176,26,40
+offsets:1,1,28,42
+Foot R 03
+bounds:220,22,46,22
+offsets:1,1,48,24
+rotate:90
+Hair
+bounds:220,2,18,20
+offsets:1,1,20,21
+rotate:90
+Hand L 01
+bounds:2,4,108,43
+offsets:1,1,110,45
+rotate:90
+Hand L 02
+bounds:144,33,32,81
+offsets:1,1,34,83
+Hand L 03 01
+bounds:178,90,27,37
+offsets:1,1,29,39
+rotate:90
+Hand L 03 02
+bounds:187,161,34,36
+offsets:1,1,36,38
+Hand R 01
+bounds:47,4,108,43
+offsets:1,1,110,45
+rotate:90
+Hand R 02
+bounds:121,116,33,81
+offsets:1,1,35,83
+Hand R 03 01
+bounds:225,218,28,36
+offsets:1,1,30,38
+Hand R 03 02
+bounds:191,218,32,36
+offsets:1,1,34,38
+Head 01
+bounds:121,199,68,55
+offsets:1,1,70,57
+Head 02
+bounds:92,32,80,50
+offsets:1,1,82,51
+rotate:90
+Siel Shouder R
+bounds:92,3,58,27
+offsets:1,1,60,29

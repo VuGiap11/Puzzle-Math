@@ -1,0 +1,43 @@
+Map-09-E-01-CuopBien.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:158,78,42,48
+Bongdo
+bounds:2,3,45,13
+offsets:1,1,47,15
+Foot L 01
+bounds:127,76,29,50
+Foot L 02
+bounds:182,8,26,17
+offsets:1,1,28,19
+rotate:90
+Foot R 01
+bounds:151,24,28,50
+Foot R 02
+bounds:201,8,26,15
+offsets:1,1,28,17
+rotate:90
+Hair
+bounds:116,5,34,33
+offsets:1,1,36,35
+rotate:90
+Hand L 01
+bounds:127,44,30,22
+offsets:1,1,32,24
+rotate:90
+Hand L 02
+bounds:181,36,40,24
+rotate:90
+Hand R 01
+bounds:151,2,29,20
+offsets:1,1,31,22
+Hand R 02
+bounds:91,2,23,37
+Head
+bounds:2,18,87,108
+offsets:1,1,89,111
+Wepon
+bounds:91,41,34,85
+offsets:1,1,36,88

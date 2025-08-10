@@ -1,0 +1,35 @@
+Map-09-E-02-Doi.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:144,2,88,86
+Bongdo
+bounds:2,183,45,13
+offsets:1,1,47,15
+Foot L
+bounds:117,172,24,37
+offsets:1,1,26,39
+rotate:90
+Foot R
+bounds:78,173,23,37
+offsets:1,1,25,39
+rotate:90
+Head
+bounds:2,122,55,56
+offsets:1,1,57,58
+rotate:90
+Tair L
+bounds:156,170,26,42
+offsets:1,1,28,44
+rotate:90
+Tair R
+bounds:49,179,17,27
+offsets:1,1,19,29
+rotate:90
+Wing L
+bounds:60,90,78,140
+rotate:90
+Wing R
+bounds:2,10,78,140
+rotate:90

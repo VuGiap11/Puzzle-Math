@@ -1,0 +1,54 @@
+Cat-07-Ninja-CEO-Transform.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,194,190,175
+Bongdo
+bounds:463,195,70,21
+offsets:2,1,74,24
+rotate:90
+Eye L
+bounds:309,203,33,39
+offsets:1,1,35,41
+Eye R
+bounds:446,154,33,39
+offsets:1,1,35,41
+Foot L
+bounds:2,131,61,113
+rotate:90
+Foot R
+bounds:446,2,62,113
+Hand L 01
+bounds:309,113,135,88
+offsets:1,1,137,90
+Hand L 02
+bounds:348,203,113,166
+Hand R 01
+bounds:309,23,135,88
+offsets:1,1,137,90
+Hand R 02
+bounds:194,76,113,166
+Head
+bounds:194,244,152,125
+offsets:1,1,154,127
+Mi L
+bounds:481,117,41,24
+offsets:1,1,43,26
+rotate:90
+Mi R
+bounds:486,160,47,23
+offsets:1,1,49,25
+rotate:90
+Mouth
+bounds:486,209,56,24
+offsets:1,1,58,26
+rotate:90
+Tai L
+bounds:463,267,45,47
+offsets:1,1,47,49
+rotate:90
+Tai R
+bounds:463,314,55,47
+offsets:1,1,57,49
+rotate:90

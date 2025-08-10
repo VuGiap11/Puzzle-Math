@@ -1,0 +1,46 @@
+Cat-13-Baby.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+Body
+bounds:2,2,107,103
+offsets:0,0,107,104
+Bongdo
+bounds:186,28,66,21
+offsets:2,1,70,23
+Eye L
+bounds:227,194,14,21
+offsets:1,1,16,23
+rotate:90
+Eye R
+bounds:186,12,14,21
+offsets:1,1,16,23
+rotate:90
+Foot L
+bounds:190,105,36,52
+rotate:90
+Foot R
+bounds:198,51,36,52
+Hand L 01
+bounds:111,16,87,42
+rotate:90
+Hand R 01
+bounds:145,105,87,43
+rotate:90
+Head
+bounds:2,107,141,139
+offsets:0,0,142,140
+Horn 01
+bounds:190,143,64,49
+Horn 02
+bounds:155,54,41,49
+offsets:1,1,42,51
+Horn 03
+bounds:227,210,26,36
+offsets:1,0,28,37
+Horn 04
+bounds:155,8,29,44
+offsets:1,1,31,46
+Tail
+bounds:145,194,80,52

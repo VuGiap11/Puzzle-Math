@@ -1,0 +1,60 @@
+Enemy Sugar Baby.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:145,126,115,69
+rotate:90
+Bongdo
+bounds:118,30,70,21
+offsets:3,1,74,24
+rotate:90
+Foot L 01
+bounds:26,2,12,22
+offsets:1,1,14,24
+Foot L 02
+bounds:26,26,15,22
+offsets:1,1,17,24
+Foot R 02
+bounds:26,26,15,22
+offsets:1,1,17,24
+Foot L 03
+bounds:118,134,26,16
+offsets:1,1,28,18
+rotate:90
+Foot R 03
+bounds:118,134,26,16
+offsets:1,1,28,18
+rotate:90
+Foot R 01
+bounds:40,2,12,22
+offsets:1,1,14,24
+Hair
+bounds:89,97,27,63
+offsets:1,1,29,65
+Hand L 01
+bounds:118,102,53,22
+Hand L 03
+bounds:54,122,38,33
+offsets:1,1,40,35
+rotate:90
+Hand R 01
+bounds:54,72,48,32
+rotate:90
+Hand R 03
+bounds:173,86,38,32
+offsets:1,1,40,34
+rotate:90
+Head
+bounds:2,162,141,79
+Kinh
+bounds:54,7,63,21
+offsets:1,1,65,23
+rotate:90
+No
+bounds:2,2,46,22
+offsets:1,1,48,24
+rotate:90
+Wepon
+bounds:2,50,50,110
+offsets:1,1,52,112

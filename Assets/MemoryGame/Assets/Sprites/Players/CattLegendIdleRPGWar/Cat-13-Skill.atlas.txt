@@ -1,0 +1,45 @@
+Cat-13-Skill.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.92
+Bongdo
+bounds:228,190,64,20
+offsets:2,1,68,22
+rotate:90
+Head 01
+bounds:2,153,179,101
+Head 02
+bounds:123,6,145,49
+offsets:1,0,146,50
+rotate:90
+S Body
+bounds:2,21,119,130
+offsets:0,0,120,130
+S Eye L
+bounds:221,115,44,33
+offsets:1,1,46,35
+rotate:90
+S Eye R
+bounds:221,63,50,32
+offsets:1,1,52,34
+rotate:90
+S Foot L
+bounds:174,96,45,55
+S Foot R
+bounds:174,39,45,55
+S Hand L
+bounds:174,9,40,28
+offsets:0,0,40,29
+S Hand R
+bounds:221,21,27,40
+S May L
+bounds:42,4,37,15
+offsets:1,1,39,17
+S May R
+bounds:2,2,38,17
+offsets:1,2,40,20
+S Tail
+bounds:183,161,93,43
+offsets:1,1,94,44
+rotate:90

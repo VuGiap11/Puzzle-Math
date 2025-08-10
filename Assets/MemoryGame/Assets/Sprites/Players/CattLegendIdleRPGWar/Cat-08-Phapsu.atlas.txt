@@ -1,0 +1,41 @@
+Cat-08-Phapsu.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Bag
+bounds:345,44,42,39
+offsets:1,1,44,41
+rotate:90
+Body
+bounds:176,71,89,95
+rotate:90
+Bongdo
+bounds:273,15,70,21
+offsets:2,1,74,24
+rotate:90
+Eye
+bounds:126,6,110,47
+rotate:90
+Hand L
+bounds:2,2,84,47
+Hand R
+bounds:401,46,84,47
+rotate:90
+Head
+bounds:2,118,172,132
+offsets:1,1,174,134
+Layer 79
+bounds:345,88,54,72
+offsets:1,1,56,74
+Layer 80
+bounds:273,87,70,73
+offsets:1,2,72,76
+Tail
+bounds:422,132,118,70
+rotate:90
+Vay
+bounds:2,51,122,65
+Wepon
+bounds:176,162,88,244
+offsets:1,1,90,246
+rotate:90

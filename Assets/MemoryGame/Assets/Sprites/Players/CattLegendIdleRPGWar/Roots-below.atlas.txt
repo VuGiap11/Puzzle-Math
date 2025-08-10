@@ -1,0 +1,13 @@
+Roots-below.png
+size:128,128
+filter:Linear,Linear
+pma:true
+Recay-P/2
+bounds:2,29,25,94
+rotate:90
+Recay-P/3
+bounds:2,2,25,103
+rotate:90
+Recay-P/4
+bounds:2,56,19,75
+rotate:90

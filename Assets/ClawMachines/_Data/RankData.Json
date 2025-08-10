@@ -1,0 +1,81 @@
+﻿{
+  "rankdatas": [
+    { "Id":11,
+      "Name": "Nguyễn Phương Vy",
+      "NumberBaby": 37,
+      "IdAvar":0
+    },
+    {
+      "Id":12,
+      "Name": "Hoàng Linh Trang",
+      "NumberBaby": 25,
+      "IdAvar":5
+    },
+    {
+      "Id":13,
+      "Name": "Vũ Ánh Nguyệt",
+      "NumberBaby": 38,
+      "IdAvar":2
+    },
+    {
+      "Id":14,
+      "Name": "Vũ Khanh Linh",
+      "NumberBaby": 33,
+      "IdAvar":2
+    },
+    {
+      "Id":15,
+      "Name": "Vũ Ngân Giang",
+      "NumberBaby": 34,
+      "IdAvar":1
+    },
+    {
+      "Id":16,
+      "Name": "Nguyễn Quỳnh Hoa",
+      "NumberBaby": 36,
+      "IdAvar":1
+    },
+    {
+      "Id":17,
+      "Name": "Havert",
+      "NumberBaby": 31,
+      "IdAvar":0
+    },
+    {
+      "Id":18,
+      "Name": "Joginho",
+      "NumberBaby": 32,
+      "IdAvar":2
+    },
+    {
+      "Id":19,
+      "Name": "Phạm Thanh Huyền",
+      "NumberBaby": 38,
+      "IdAvar":3
+    },
+    {
+      "Id":20,
+      "Name": "Đinh Tuyết Mai",
+      "NumberBaby": 37,
+      "IdAvar":6
+    },
+    {
+      "Id":21,
+      "Name": "Trần Ngọc Anh",
+      "NumberBaby": 32,
+      "IdAvar":6
+    },
+    {
+      "Id":22,
+      "Name": "Nguyễn Kim Ngân",
+      "NumberBaby": 33,
+      "IdAvar":7
+    },
+    {
+      "Id":23,
+      "Name": "Trossard",
+      "NumberBaby": 35,
+      "IdAvar":8
+    }
+  ]
+}

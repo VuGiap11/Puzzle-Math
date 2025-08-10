@@ -1,0 +1,39 @@
+Map-04-E-01.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.9
+Body
+bounds:2,24,101,102
+Bongdo
+bounds:2,10,39,12
+offsets:1,1,41,14
+Eye L
+bounds:103,2,12,20
+offsets:1,0,13,20
+Eye R
+bounds:77,6,16,24
+rotate:90
+Foot L
+bounds:195,3,41,44
+rotate:90
+Foot R
+bounds:186,46,43,46
+Hand L
+bounds:117,4,28,76
+offsets:1,0,30,76
+rotate:90
+Hand R
+bounds:186,94,32,68
+rotate:90
+Head
+bounds:105,34,92,79
+offsets:2,0,94,79
+rotate:90
+Tai L
+bounds:43,8,14,32
+offsets:1,0,15,32
+rotate:90
+Tai R
+bounds:231,48,22,44
+offsets:1,1,23,46

@@ -1,0 +1,45 @@
+Cat-01-Cattiacay.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.9
+Body
+bounds:2,69,61,57
+Bongdo
+bounds:2,6,35,11
+offsets:1,1,37,13
+rotate:90
+Box
+bounds:65,72,56,54
+Eye L
+bounds:25,2,7,8
+Eye R
+bounds:15,2,8,8
+Hand L
+bounds:80,6,18,18
+Hand R
+bounds:80,6,18,18
+Keo 01
+bounds:65,49,54,21
+offsets:1,1,56,23
+Keo 02
+bounds:2,43,53,24
+offsets:1,0,55,24
+La
+bounds:36,14,27,18
+offsets:1,1,28,19
+rotate:90
+Mouth
+bounds:57,51,16,6
+rotate:90
+Tai L
+bounds:80,26,19,21
+offsets:0,0,20,21
+Tai R
+bounds:56,18,23,22
+offsets:0,0,24,22
+rotate:90
+Tail
+bounds:15,12,29,19
+offsets:0,0,30,20
+rotate:90

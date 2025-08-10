@@ -1,0 +1,49 @@
+Cat-06-Cuop.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Arm L
+bounds:123,82,18,18
+offsets:1,1,20,20
+Arm
+bounds:123,82,18,18
+offsets:1,1,20,20
+Body
+bounds:58,58,68,63
+offsets:0,0,68,68
+rotate:90
+Bongdo
+bounds:2,4,39,12
+offsets:1,1,41,14
+rotate:90
+Eye L
+bounds:16,2,6,7
+offsets:1,1,8,9
+rotate:90
+Eye R
+bounds:40,10,7,7
+offsets:1,1,9,9
+Mouth
+bounds:25,3,16,5
+offsets:1,1,18,7
+Pickaxe
+bounds:64,4,52,44
+offsets:1,1,54,46
+rotate:90
+Tai L
+bounds:123,102,21,24
+offsets:1,1,23,26
+Tai R
+bounds:40,19,24,22
+offsets:1,2,27,25
+rotate:90
+Tail
+bounds:16,10,33,22
+rotate:90
+fx-mine
+bounds:110,8,46,48
+offsets:1,1,48,50
+ore
+bounds:2,45,81,54
+offsets:1,1,83,56
+rotate:90

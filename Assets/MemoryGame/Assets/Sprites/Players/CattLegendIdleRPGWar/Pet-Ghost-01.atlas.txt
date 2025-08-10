@@ -1,0 +1,30 @@
+Pet-Ghost-01.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,100,141,154
+offsets:1,0,142,154
+Bongdo
+bounds:22,4,70,21
+offsets:2,1,74,24
+Eye L
+bounds:116,3,15,29
+offsets:1,1,17,31
+Eye R
+bounds:94,2,20,30
+offsets:1,1,22,32
+Hand L
+bounds:36,34,50,64
+Hand R
+bounds:88,34,50,64
+Horn L
+bounds:133,11,18,21
+offsets:1,1,20,23
+Horn R
+bounds:2,2,18,23
+offsets:1,1,20,25
+Mouth
+bounds:2,27,71,32
+offsets:1,1,73,34
+rotate:90

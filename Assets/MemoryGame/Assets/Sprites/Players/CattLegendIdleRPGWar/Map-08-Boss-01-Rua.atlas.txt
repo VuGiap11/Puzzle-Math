@@ -1,0 +1,49 @@
+Map-08-Boss-01-Rua.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,70,183,184
+offsets:1,5,185,190
+rotate:90
+Bongdo
+bounds:109,47,70,21
+offsets:2,1,74,24
+Eye L
+bounds:175,2,24,44
+offsets:1,1,26,46
+rotate:90
+Eye R
+bounds:356,7,48,62
+offsets:1,1,50,64
+rotate:90
+Foot L
+bounds:2,3,65,105
+rotate:90
+Foot R
+bounds:412,66,64,106
+Hand L 01
+bounds:109,7,38,64
+offsets:1,1,40,66
+rotate:90
+Hand L 02
+bounds:412,174,70,79
+offsets:0,1,70,80
+Hand R 01
+bounds:420,29,35,64
+offsets:2,1,38,66
+rotate:90
+Hand R 02
+bounds:305,25,49,75
+Head 01
+bounds:188,28,115,72
+offsets:1,1,117,74
+Head 02
+bounds:188,102,166,151
+offsets:1,1,168,153
+Mouth
+bounds:221,12,28,14
+offsets:1,1,30,16
+Wepon
+bounds:356,57,54,196
+offsets:1,2,56,199

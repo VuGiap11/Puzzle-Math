@@ -1,0 +1,27 @@
+Cat-14-Skill.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.92
+Banh 01
+bounds:2,26,38,36
+offsets:0,1,38,37
+Banh 02
+bounds:2,26,38,36
+offsets:0,1,38,37
+Body
+bounds:2,64,190,122
+offsets:0,0,191,122
+Bongdo
+bounds:42,42,64,20
+offsets:2,1,68,22
+Foot L
+bounds:42,14,21,26
+Foot R
+bounds:108,36,22,26
+Kem 01
+bounds:194,89,97,56
+offsets:0,0,98,56
+rotate:90
+Kem 02
+bounds:194,2,53,85

@@ -1,0 +1,35 @@
+Map-10-E-01-Khi.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:99,62,37,64
+Bongdo
+bounds:2,8,45,13
+offsets:1,1,47,15
+Eye
+bounds:138,77,49,27
+offsets:1,1,51,29
+rotate:90
+Foot L
+bounds:167,87,30,39
+offsets:1,0,32,39
+Foot R
+bounds:140,9,22,40
+rotate:90
+Hand L 01
+bounds:49,2,29,19
+offsets:1,1,31,21
+Hand L 02
+bounds:99,25,39,35
+Hand R 01
+bounds:80,8,13,33
+offsets:1,2,15,36
+rotate:90
+Hand R 02
+bounds:140,33,42,29
+offsets:1,0,43,30
+rotate:90
+Head
+bounds:2,23,95,103
+offsets:1,1,97,105

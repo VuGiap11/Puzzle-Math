@@ -1,0 +1,41 @@
+Pet-Bot-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,74,171,127
+offsets:1,1,173,129
+Bongdo
+bounds:48,51,70,21
+offsets:2,1,74,24
+Eye L
+bounds:2,2,27,27
+offsets:1,1,29,29
+Eye R
+bounds:89,22,27,27
+offsets:1,1,29,29
+Hand L 01
+bounds:2,31,41,44
+rotate:90
+Hand L 02
+bounds:175,103,46,44
+offsets:1,1,48,46
+rotate:90
+Hand R 01
+bounds:120,28,40,44
+Hand R 02
+bounds:175,56,45,44
+offsets:1,1,47,46
+rotate:90
+Horn L
+bounds:48,3,46,39
+offsets:1,1,48,41
+rotate:90
+Horn R
+bounds:175,151,50,44
+offsets:1,1,52,46
+rotate:90
+Mouth
+bounds:162,18,36,19
+offsets:1,1,38,21
+rotate:90

@@ -1,0 +1,24 @@
+Map-09-E-03-BiNgo.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,6,142,119
+Bongdo
+bounds:146,9,45,13
+offsets:1,1,47,15
+Eye L
+bounds:196,99,26,39
+offsets:1,1,28,41
+rotate:90
+Eye R
+bounds:146,68,48,57
+offsets:1,1,50,59
+Hair
+bounds:146,24,42,46
+offsets:2,1,45,48
+rotate:90
+Mouth
+bounds:194,2,64,21
+offsets:2,1,67,23
+rotate:90

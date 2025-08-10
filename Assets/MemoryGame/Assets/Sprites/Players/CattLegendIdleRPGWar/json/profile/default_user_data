@@ -1,0 +1,388 @@
+{
+  "profile": {
+    "userName": "CatLover",
+    "firstTimeLogin": 1715673409096.0,
+    "lastDayLogin": 1715644800000.0,
+    "lastTimeBackUp": 1698796800000.0,
+    "loginDayIndex": 0,
+    "loginMonthIndex": -1,
+    "isClaimedLoginReward": false,
+    "usedGiftcodes": [],
+    "renameCount": 0,
+    "savedDataToday": false,
+    "rateCount": 0,
+    "completedTutorials": [
+      1
+    ],
+    "received7DaysLogins": []
+  },
+  "campaign": {
+    "curStageId": 1,
+    "passedStageId": 0,
+    "isLoop": false,
+    "welcomeBackData": {
+      "lastCollect": 0.0,
+      "lastGenerateRewards": 0.0,
+      "currentRewards": {
+        "time": 0.0,
+        "gold": 0.0,
+        "traitPoints": 0,
+        "expShards": 0.0,
+        "weapons": {},
+        "armors": {}
+      }
+    }
+  },
+  "items": {
+    "consumables": {
+      "10": 250.0,
+      "11": 138.0,
+      "20": 2.0,
+      "21": 2.0,
+      "22": 2.0,
+      "23": 2.0,
+      "24": 1.0,
+      "25": 2.0,
+      "61": 1.0,
+      "62": 3.0
+    }
+  },
+  "heroes": {
+    "playingId": 1,
+    "acquiredHeroes": {
+      "1": {
+        "id": 1,
+        "exp": 0,
+        "promotions": 0
+      }
+    }
+  },
+  "skills": {
+    "equippedIds": {},
+    "inventory": []
+  },
+  "gears": {
+    "weapon": {
+      "equippedId": 0,
+      "inventory": []
+    },
+    "armor": {
+      "equippedId": 0,
+      "inventory": []
+    },
+    "earring": {
+      "equippedId": 0,
+      "inventory": []
+    },
+    "talisman": {
+      "equippedId": 0,
+      "inventory": []
+    },
+    "ring": {
+      "inventory": []
+    },
+    "toy": {}
+  },
+  "companions": {
+    "equippedIds": {},
+    "inventory": []
+  },
+  "training": {
+    "enhancedLevels": {
+      "0": 5
+    }
+  },
+  "mastery": {
+    "commonEnhanced": {},
+    "promotionEnhanced": {}
+  },
+  "traits": {
+    "equipped": {}
+  },
+  "relics": {
+    "inventory": [],
+    "equippedIds": {}
+  },
+  "challenges": {
+    "dailyViewedAds": {},
+    "passedDifficulty": {},
+    "kingOfHell": {
+      "record": 0.0
+    }
+  },
+  "quests": {
+    "mainQuest": {
+      "id": 3,
+      "type": 1,
+      "point": 1.0,
+      "complete": false,
+      "received": false
+    },
+    "lootVillageQuest": null,
+    "diaryQuest": {
+      "startTime": 1715644800000.0,
+      "endTime": 1718323199000.0,
+      "rewardReceiveds": [],
+      "diaryQuests": [
+        {
+          "day": 1,
+          "quests": [
+            {
+              "id": 1,
+              "type": 5,
+              "point": 1.0,
+              "complete": true,
+              "received": false
+            },
+            {
+              "id": 2,
+              "type": 3,
+              "point": 0.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 3,
+              "type": 11,
+              "point": 5.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 4,
+              "type": 12,
+              "point": 1.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 5,
+              "type": 15,
+              "point": 1.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 6,
+              "type": 13,
+              "point": 1.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 7,
+              "type": 71,
+              "point": 0.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 8,
+              "type": 73,
+              "point": 0.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 9,
+              "type": 72,
+              "point": 0.0,
+              "complete": false,
+              "received": false
+            },
+            {
+              "id": 10,
+              "type": 4,
+              "point": 0.0,
+              "complete": false,
+              "received": false
+            }
+          ]
+        }
+      ]
+    },
+    "dailyQuests": [
+      {
+        "id": 1,
+        "type": 1,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 10,
+        "type": 1,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 11,
+        "type": 2,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 15,
+        "type": 2,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 16,
+        "type": 1,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 17,
+        "type": 2,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 2,
+        "type": 4,
+        "point": 0.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 3,
+        "type": 2,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 7,
+        "type": 122,
+        "point": 0.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 8,
+        "type": 2,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      },
+      {
+        "id": 9,
+        "type": 1,
+        "point": 4.0,
+        "complete": false,
+        "received": false
+      }
+    ]
+  },
+  "ads": {
+    "timeEndX2Speed": 0.0,
+    "dailyAdSpin": 0,
+    "adsTotal": 0,
+    "dailyAdGetItem": {}
+  },
+  "shop": {
+    "summon": {
+      "listData": [
+        {
+          "type": 0,
+          "exp": 0,
+          "dailyAd": 0,
+          "totalAd": 0,
+          "dailySummon": 0,
+          "totalSummon": 0
+        },
+        {
+          "type": 1,
+          "exp": 0,
+          "dailyAd": 0,
+          "totalAd": 0,
+          "dailySummon": 0,
+          "totalSummon": 0
+        },
+        {
+          "type": 2,
+          "exp": 0,
+          "dailyAd": 0,
+          "totalAd": 0,
+          "dailySummon": 0,
+          "totalSummon": 0
+        },
+        {
+          "type": 3,
+          "exp": 0,
+          "dailyAd": 0,
+          "totalAd": 0,
+          "dailySummon": 0,
+          "totalSummon": 0
+        }
+      ]
+    },
+    "package": {},
+    "periodic": {
+      "purchasedGems": []
+    },
+    "special": {
+      "timeBeginMembership": 0.0,
+      "isClaimedMembershipBonus": false,
+      "timeBeginSkipAd": 0.0
+    },
+    "premium": {
+      "talismanDailyAdSummon": 0,
+      "talismanDailyFreeSummon": 0,
+      "purchasedDiamond": []
+    },
+    "isPaid": false,
+    "purchasedPackages": {}
+  },
+  "settings": {
+    "autoSkill": false
+  },
+  "collectionBooks": {
+    "collections": []
+  },
+  "blessing": {
+    "totalPlutus": 0,
+    "totalHercules": 0,
+    "totalHermes": 0,
+    "timePlutus": -1.0,
+    "timeHercules": -1.0,
+    "timeHermes": -1.0,
+    "timeFlyBox": -1.0
+  },
+  "research": {
+    "listElementData": [
+      {
+        "id": 0,
+        "isUnlocked": true,
+        "levelCurrent": 0
+      }
+    ],
+    "idResearchCurrent": -1,
+    "timeStartRearch": 1698796800000.0,
+    "quantityWatchAds": 0
+  },
+  "mining": {
+    "currentFloor": 0.0,
+    "timeStartCountDown": 1698796800000.0,
+    "distanceTimeReceivePickaxe": 600.0,
+    "maxQuantityPickaxe": 60.0,
+    "listDataElement": []
+  },
+  "battlePasses": {
+    "battlePasses": []
+  },
+  "lootVillage": {
+    "level": 1,
+    "exp": 0.0,
+    "boostTimeEnd": 0.0,
+    "packageActives": [],
+    "villages": []
+  }
+}

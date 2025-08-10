@@ -1,0 +1,67 @@
+Map-06-Boss-01-Ech.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body 01
+bounds:2,161,265,209
+Body 02
+bounds:269,80,179,290
+Bongdo
+bounds:483,300,70,21
+offsets:2,1,74,24
+rotate:90
+Day 01
+bounds:92,42,62,39
+offsets:1,1,64,41
+E Body 01
+bounds:92,83,76,83
+rotate:90
+E Body 02
+bounds:470,139,81,38
+offsets:20,1,102,40
+rotate:90
+E Eyey L
+bounds:52,7,36,36
+offsets:2,1,39,38
+E Eyey R
+bounds:90,7,33,35
+offsets:2,1,36,37
+rotate:90
+E Foot R 01
+bounds:450,210,15,18
+offsets:1,1,17,20
+rotate:90
+E Foot R 02
+bounds:483,274,27,24
+offsets:1,1,29,26
+E Hair
+bounds:483,222,20,24
+offsets:1,1,22,26
+rotate:90
+E Luoi
+bounds:450,227,143,31
+rotate:90
+E Tail
+bounds:2,81,88,78
+offsets:0,0,89,78
+Eye L
+bounds:450,71,59,66
+offsets:1,1,61,68
+Eye R
+bounds:2,2,48,41
+offsets:3,1,52,43
+Foot L 01
+bounds:177,90,69,79
+rotate:90
+Foot R 01
+bounds:177,20,68,77
+rotate:90
+Foot R 02
+bounds:2,45,34,66
+rotate:90
+Layer 58 copy
+bounds:450,194,18,14
+offsets:1,2,21,17
+Layer 59 copy
+bounds:483,244,19,28
+offsets:1,2,21,31

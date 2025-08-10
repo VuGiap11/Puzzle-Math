@@ -1,0 +1,80 @@
+Park-01-CatFire.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+C 01 Bg
+bounds:2,235,360,720
+offsets:1,1,362,722
+C 01 Eye L
+bounds:1123,115,140,67
+offsets:1,2,142,71
+C 01 Eye R
+bounds:1116,45,139,68
+offsets:1,1,141,70
+C 02 Bg
+bounds:364,235,360,720
+offsets:1,1,362,722
+C 02 Body
+bounds:1728,450,143,235
+offsets:1,1,145,239
+rotate:90
+C 02 Demo
+bounds:726,123,345,395
+offsets:1,1,347,397
+rotate:90
+C 02 Heroes
+bounds:726,470,566,485
+offsets:3,3,573,491
+C 02 Tail
+bounds:1274,143,109,246
+offsets:1,3,111,250
+rotate:90
+C 02 Wing L 01
+bounds:2,2,231,369
+offsets:3,2,240,375
+rotate:90
+C 02 Wing L 02
+bounds:1685,302,146,231
+offsets:5,3,153,236
+rotate:90
+C 02 Wing R 01
+bounds:373,34,199,335
+offsets:6,2,209,340
+rotate:90
+C 02 Wing R 02
+bounds:710,18,103,259
+offsets:2,4,108,264
+rotate:90
+C 03 Body
+bounds:1274,254,240,211
+offsets:1,1,242,213
+C 03 Foot
+bounds:971,20,101,143
+offsets:1,1,103,145
+rotate:90
+C 03 Hand L
+bounds:1685,216,231,84
+offsets:0,0,231,86
+C 03 Slash 01
+bounds:1294,508,432,41
+offsets:1,1,435,43
+C 03 Slash 02
+bounds:1294,467,432,39
+offsets:1,2,435,43
+C 03 Slash 03
+bounds:1294,551,432,42
+offsets:1,1,435,44
+C 03 Tail
+bounds:1516,258,167,207
+C 03 Tail 02
+bounds:1522,168,154,88
+C 03 Wing L
+bounds:1123,184,149,284
+C 03 Wing R
+bounds:1926,667,288,118
+offsets:0,1,288,119
+rotate:90
+Layer 1
+bounds:1294,595,360,630
+offsets:1,1,362,632
+rotate:90

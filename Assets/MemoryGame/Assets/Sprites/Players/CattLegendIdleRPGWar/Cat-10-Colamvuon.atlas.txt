@@ -1,0 +1,58 @@
+Cat-10-Colamvuon.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:143,136,116,141
+rotate:90
+Bongdo
+bounds:222,16,70,21
+offsets:2,1,74,24
+rotate:90
+Chau hoa 01
+bounds:2,77,87,48
+offsets:1,1,89,50
+Chau hoa 02
+bounds:168,35,11,37
+offsets:1,1,13,39
+rotate:90
+Chau hoa 03
+bounds:91,80,45,41
+offsets:1,1,47,43
+rotate:90
+Chau hoa 04
+bounds:63,3,33,24
+offsets:1,1,35,26
+rotate:90
+Chau hoa 05
+bounds:127,18,39,28
+offsets:1,1,41,30
+Eye L
+bounds:245,47,33,39
+offsets:1,1,35,41
+Eye R
+bounds:245,6,33,39
+offsets:1,1,35,41
+Hand L 01
+bounds:134,48,86,38
+offsets:1,2,87,41
+Hand R 01
+bounds:2,38,87,37
+offsets:1,1,88,39
+Hat 01
+bounds:91,18,60,34
+offsets:1,1,62,36
+rotate:90
+Hat 02
+bounds:2,2,59,34
+offsets:1,1,61,36
+Hat 03
+bounds:286,27,225,97
+offsets:1,1,227,99
+rotate:90
+Head
+bounds:2,127,139,125
+offsets:1,1,141,127
+Tail
+bounds:143,88,46,130
+rotate:90

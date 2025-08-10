@@ -1,0 +1,54 @@
+Cat-00-Library-Bot.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Book 01
+bounds:2,21,105,19
+rotate:90
+Book 02
+bounds:90,2,39,56
+rotate:90
+Eye L
+bounds:2,7,12,6
+offsets:1,1,14,8
+rotate:90
+Eye R
+bounds:2,7,12,6
+offsets:1,1,14,8
+rotate:90
+Hand L 03
+bounds:187,83,21,18
+offsets:1,2,24,22
+Hand R 03
+bounds:166,53,24,24
+offsets:1,1,26,26
+Head
+bounds:49,43,77,83
+Kinh
+bounds:128,48,78,36
+offsets:1,1,80,38
+rotate:90
+Layer 20
+bounds:148,15,60,31
+offsets:5,1,68,33
+Layer 21
+bounds:23,6,65,31
+offsets:7,1,77,33
+Mouth
+bounds:166,80,21,19
+offsets:1,2,23,22
+rotate:90
+Muc
+bounds:210,103,30,23
+offsets:2,1,34,26
+Pen
+bounds:23,39,24,87
+offsets:0,0,25,87
+Tair L
+bounds:210,79,22,26
+offsets:0,0,23,26
+rotate:90
+Tair R
+bounds:166,103,23,30
+offsets:0,0,24,30
+rotate:90

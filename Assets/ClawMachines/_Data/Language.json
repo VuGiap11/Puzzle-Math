@@ -1,0 +1,222 @@
+﻿{
+    "DataLanguages": [
+        {
+            "key": "Reward",
+            "Englandtext": "Reward",
+            "Vietnamtext": "Quà hằng ngày"
+        },
+        {
+            "key": "User_name",
+            "Englandtext": "User_name",
+            "Vietnamtext": "Tên người dùng"
+        },
+        {
+            "key": "Save",
+            "Englandtext": "Save",
+            "Vietnamtext": "Lưu"
+        }
+        ,
+        {
+            "key": "Avatar",
+            "Englandtext": "Select avatar",
+            "Vietnamtext": "Chọn ảnh đại diện"
+        },
+        {
+            "key": "Expectation",
+            "Englandtext": "Wish",
+            "Vietnamtext": "Nguyện vọng"
+        }
+        ,
+        {
+            "key": "Save your progress",
+            "Englandtext": "Save your progress",
+            "Vietnamtext": "Lưu Ngôn Ngữ"
+        },
+        {
+            "key": "Collection",
+            "Englandtext": "Collection",
+            "Vietnamtext": "Bộ Sưu tập"
+        }
+        ,
+        {
+            "key": "Select",
+            "Englandtext": "Select",
+            "Vietnamtext": "Chọn"
+        } ,
+        {
+            "key": "Profile",
+            "Englandtext": "Profile",
+            "Vietnamtext": "Hồ Sơ"
+        }
+         ,
+        {
+            "key": "Agree",
+            "Englandtext": "Agree",
+            "Vietnamtext": "Ok"
+        }
+        ,
+        {
+            "key": "Please enter your name",
+            "Englandtext": "Enter your nickname (1-18) characters",
+            "Vietnamtext": "Nhập tên của bạn trong (1-18) ký tự"
+        }
+        ,
+        {
+            "key": "Leaderboard",
+            "Englandtext": "Rank",
+            "Vietnamtext": "Bảng xếp hạng"
+        }
+        ,
+        {
+            "key": "Open",
+            "Englandtext": "Open",
+            "Vietnamtext": "Mở"
+        }
+        ,
+        {
+            "key": "Play",
+            "Englandtext": "Play",
+            "Vietnamtext": "Chơi"
+        }
+        ,
+        {
+            "key": "Confirm",
+            "Englandtext": "Confirm",
+            "Vietnamtext": "Xác Nhận"
+        }
+        ,
+        {
+            "key": "Free",
+            "Englandtext": "Free",
+            "Vietnamtext": "Miễn Phí"
+        }
+         ,
+        {
+            "key": "Shop",
+            "Englandtext": "Shop",
+            "Vietnamtext": "Cửa Hàng"
+        }
+         ,
+        {
+            "key": "Gift",
+            "Englandtext": "Gift",
+            "Vietnamtext": "Quà tặng"
+        }
+         ,
+        {
+            "key": "Watch",
+            "Englandtext": "Watch",
+            "Vietnamtext": "Xem"
+        }
+         ,
+        {
+            "key": "Setting",
+            "Englandtext": "Setting",
+            "Vietnamtext": "Cài đặt"
+        }
+        ,
+        {
+            "key": "Sound",
+            "Englandtext": "Sound",
+            "Vietnamtext": "Âm thanh"
+        }
+        ,
+        {
+            "key": "Music",
+            "Englandtext": "Music",
+            "Vietnamtext": "Nhạc"
+        }
+         ,
+        {
+            "key": "Close",
+            "Englandtext": "Close",
+            "Vietnamtext": "Đóng"
+        }
+        ,
+        {
+            "key": "GiftText",
+            "Englandtext": "Watch a short video to\n get more coins",
+            "Vietnamtext": "Xem một video ngắn để\n lấy thêm tiền"
+        } ,
+        {
+            "key": "WishText",
+            "Englandtext": "Choose the reward you wish",
+            "Vietnamtext": "Chọn nguyện vọng của bạn"
+        },
+        {
+            "key": "TurnText",
+            "Englandtext": "Watch a short video to\n get more turn",
+            "Vietnamtext": "Xem một video ngắn để\n lấy thêm lượt"
+        }
+        ,
+        {
+            "key": "IAPNotice",
+            "Englandtext": "Oops! The transaction failed.",
+            "Vietnamtext": "Oops! Giao dịch không thành công."
+        },
+        {
+            "key": "Results",
+            "Englandtext": "Results",
+            "Vietnamtext": "Kết quả"
+        }
+        ,
+        {
+            "key": "ResultsIAP",
+            "Englandtext": "You've successfully completed the transaction! We're thrilled to have you on board!",
+            "Vietnamtext": "Bạn đã hoàn tất giao dịch! Chúng tôi rất vui khi có bạn đồng hành!"
+        },
+        {
+            "key": "Double",
+            "Englandtext": "Double",
+            "Vietnamtext": "Nhân đôi"
+        },
+        {
+            "key": "No internet",
+            "Englandtext": "No internet",
+            "Vietnamtext": "Không có kết nối internet"
+        }
+        ,
+        {
+            "key": "Not enough coins",
+            "Englandtext": "Not enough coins",
+            "Vietnamtext": "Không đủ vàng"
+        },
+        {
+            "key": "Wish",
+            "Englandtext": "Wish",
+            "Vietnamtext": "Nguyện vọng"
+        },
+        {
+            "key": "Note",
+            "Englandtext":"Tap the Wish button to choose the Babythree you hope to get.\n Hold to spin faster, tap for normal speed, If you spin and land on your chosen one, you’ll receive a puzzle piece.\n Collect all the pieces to unlock that Babythree!\n You can check how many pieces you have by tapping the Baby button above.",
+            "Vietnamtext":"Hãy nhấn vào nút Wish để chọn Babythree mà bạn mong muốn.\n Giữ nút quay để điều chỉnh tốc độ quay theo ý bạn, nếu quay trúng đúng với lựa chọn, bạn sẽ nhận được một mảnh ghép.\n Khi sưu tập đủ các mảnh ghép, bạn sẽ mở khóa được Babythree đó!\n Bạn có thể kiểm tra số lượng mảnh mình đang có bằng cách nhấn vào nút Baby phía trên."
+        },
+        {
+            "key": "Spin",
+            "Englandtext": "Successful Spin!",
+            "Vietnamtext": "Quay thành công!"
+        }
+        ,
+        {
+            "key": "NoteDefeat",
+            "Englandtext": "Don't give up! \n Better luck next time! ",
+            "Vietnamtext": "Đừng bỏ cuộc! \n Chúc bạn may mắn lần sau!"
+        },
+        {
+            "key": "SpinFailure",
+            "Englandtext": "Unlucky Spin!",
+            "Vietnamtext": "Ôi không! Quay trượt rồi!"
+        }
+        ,
+        {
+            "key": "NoteAds",
+            "Englandtext": "You must watch the full advertisement to claim your reward. Exiting early will forfeit the prize.",
+            "Vietnamtext": "Vui lòng xem hết quảng cáo để nhận thưởng. Nếu thoát sớm, bạn sẽ không nhận được phần quà."
+        },
+        {
+            "key": "NoAds",
+            "Englandtext": "No ads available at the moment. Please try again later!",
+            "Vietnamtext":" Hiện tại không có quảng cáo khả dụng. Vui lòng quay lại sau."
+        }
+    ]
+}

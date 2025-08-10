@@ -1,0 +1,45 @@
+Pet-04-Chic-Dino-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,101,128,137
+Bongdo
+bounds:132,168,70,21
+offsets:1,1,74,24
+rotate:90
+Eye L
+bounds:118,12,32,41
+offsets:1,1,34,43
+rotate:90
+Eye R
+bounds:2,2,32,41
+offsets:1,1,34,43
+rotate:90
+Foot L
+bounds:215,198,39,40
+Foot R
+bounds:76,5,39,40
+rotate:90
+Hand L
+bounds:196,134,34,59
+Hand R
+bounds:181,19,34,59
+rotate:90
+Mouth
+bounds:181,55,56,41
+offsets:1,1,58,43
+rotate:90
+Tail
+bounds:76,46,103,53
+Xuong 01
+bounds:2,36,72,63
+offsets:1,1,74,65
+Xuong 02
+bounds:132,113,53,62
+offsets:1,1,55,64
+rotate:90
+Xuong 03
+bounds:155,195,43,58
+offsets:1,1,45,60
+rotate:90

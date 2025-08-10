@@ -1,0 +1,73 @@
+Cat-12-Phapsu.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:276,203,98,91
+Bongdo
+bounds:2,375,70,21
+offsets:2,1,74,24
+Cloak 00
+bounds:207,103,151,98
+Cloak L
+bounds:2,254,58,131
+rotate:90
+Cloak R
+bounds:135,239,64,139
+offsets:0,0,65,139
+rotate:90
+Eye L
+bounds:125,360,37,36
+offsets:1,1,39,38
+Eye R
+bounds:74,364,49,32
+offsets:1,1,51,34
+Fire L
+bounds:226,356,40,82
+offsets:1,1,42,84
+rotate:90
+Fire R
+bounds:70,314,44,80
+offsets:1,1,46,82
+rotate:90
+Foot L
+bounds:444,344,52,64
+offsets:0,0,52,65
+rotate:90
+Foot R
+bounds:2,321,52,66
+offsets:0,1,52,67
+rotate:90
+Hand L 01
+bounds:244,305,89,49
+offsets:1,0,90,49
+Hand R 01
+bounds:152,306,90,48
+Head
+bounds:376,154,130,124
+offsets:1,1,132,126
+Neck 00
+bounds:386,353,56,43
+offsets:1,1,58,45
+Neck L
+bounds:164,359,60,37
+offsets:1,1,62,39
+Neck R
+bounds:310,356,74,40
+offsets:1,1,76,42
+Tai L
+bounds:335,296,55,79
+offsets:1,2,57,82
+rotate:90
+Tai R
+bounds:416,280,62,83
+offsets:1,1,64,86
+rotate:90
+Tail
+bounds:2,152,85,203
+offsets:0,0,85,204
+rotate:90
+Wing L
+bounds:2,51,183,99
+Wing R
+bounds:187,2,183,99

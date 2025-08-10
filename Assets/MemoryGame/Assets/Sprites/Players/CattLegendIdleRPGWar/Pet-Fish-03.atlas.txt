@@ -1,0 +1,77 @@
+Pet-Fish-03.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:299,147,107,100
+rotate:90
+Bong bong 01
+bounds:30,2,16,15
+offsets:2,1,19,17
+rotate:90
+Bong bong 02
+bounds:335,117,28,23
+offsets:1,1,30,25
+rotate:90
+Bong bong 03
+bounds:47,9,9,7
+offsets:1,1,11,9
+rotate:90
+Bongdo
+bounds:150,2,70,21
+offsets:1,1,74,24
+Canh quat 01
+bounds:299,107,34,38
+offsets:1,1,36,40
+Canh quat 02
+bounds:229,25,69,23
+offsets:1,1,71,25
+rotate:90
+Canh quat 03
+bounds:30,20,43,24
+offsets:1,1,45,26
+rotate:90
+Canh quat 04
+bounds:254,7,87,35
+offsets:1,1,89,37
+rotate:90
+Duoi
+bounds:85,24,39,63
+rotate:90
+Eye L
+bounds:222,2,21,30
+offsets:1,1,23,32
+rotate:90
+Eye R
+bounds:329,70,35,31
+offsets:1,1,37,33
+rotate:90
+Kinh
+bounds:2,65,189,174
+offsets:1,1,191,176
+rotate:90
+Mouth
+bounds:178,65,29,27
+offsets:1,1,31,29
+rotate:90
+Tai L
+bounds:291,24,36,70
+offsets:1,1,38,72
+Tai R
+bounds:150,25,38,77
+offsets:1,1,40,79
+rotate:90
+Vay R
+bounds:56,22,41,27
+offsets:1,1,43,29
+rotate:90
+Vay duoi
+bounds:56,3,26,17
+offsets:1,1,28,19
+Vay tren
+bounds:2,2,61,26
+offsets:1,1,63,28
+rotate:90
+bong bong
+bounds:178,96,119,158
+offsets:1,1,121,160

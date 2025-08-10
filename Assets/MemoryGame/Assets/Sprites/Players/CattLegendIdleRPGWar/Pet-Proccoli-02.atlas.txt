@@ -1,0 +1,50 @@
+Pet-Proccoli-02.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,124,98,130
+Bongdo
+bounds:2,10,70,21
+offsets:2,1,74,24
+Eye L
+bounds:158,30,19,20
+offsets:1,1,21,22
+Eye R
+bounds:145,52,31,22
+offsets:1,1,33,24
+rotate:90
+Hair 01
+bounds:102,125,65,49
+offsets:1,1,67,51
+rotate:90
+Hair 02
+bounds:102,192,62,52
+offsets:1,1,64,54
+rotate:90
+Hair 03
+bounds:2,33,89,71
+offsets:1,1,91,73
+rotate:90
+Hair 04
+bounds:75,37,85,68
+offsets:1,1,87,70
+rotate:90
+Hand L
+bounds:145,85,38,36
+offsets:1,1,40,38
+rotate:90
+Hand R
+bounds:117,3,32,39
+offsets:1,1,34,41
+rotate:90
+May L
+bounds:158,7,21,17
+offsets:1,1,23,19
+rotate:90
+May R
+bounds:74,11,41,20
+offsets:1,1,43,22
+Mouth
+bounds:2,2,21,6
+offsets:1,1,23,8

@@ -1,0 +1,13 @@
+Roots-above.png
+size:128,128
+filter:Linear,Linear
+pma:true
+Recay-P/1
+bounds:2,13,31,111
+Recay-P/2
+bounds:62,30,25,94
+Recay-P/3
+bounds:35,21,25,103
+Recay-P/5
+bounds:2,2,9,62
+rotate:90

@@ -1,0 +1,46 @@
+Cat-08-Alchemy.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Arm L
+bounds:131,75,20,20
+Arm R
+bounds:131,75,20,20
+Beard
+bounds:131,58,18,15
+Body
+bounds:47,55,69,62
+rotate:90
+Book
+bounds:47,2,51,32
+rotate:90
+Bottle
+bounds:81,8,28,45
+Desk
+bounds:2,2,122,43
+offsets:1,1,124,45
+rotate:90
+Eyebrow-L
+bounds:151,105,19,10
+rotate:90
+Eyebrow-R
+bounds:137,40,16,10
+rotate:90
+Glasses
+bounds:138,103,21,11
+rotate:90
+Hair-L
+bounds:111,2,25,22
+offsets:1,1,27,24
+rotate:90
+Hair-R
+bounds:111,29,27,24
+rotate:90
+Mustache
+bounds:111,58,37,18
+rotate:90
+Tai L
+bounds:135,2,22,25
+Tai R
+bounds:111,97,27,25
+rotate:90

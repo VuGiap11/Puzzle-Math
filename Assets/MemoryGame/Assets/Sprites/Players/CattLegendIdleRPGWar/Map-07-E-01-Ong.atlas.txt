@@ -1,0 +1,31 @@
+Map-07-E-01-Ong.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,12,140,93
+Bongdo
+bounds:191,92,45,13
+offsets:1,1,47,15
+Eye L
+bounds:191,66,24,25
+offsets:1,1,26,27
+rotate:90
+Eye R
+bounds:188,2,41,40
+offsets:1,1,43,42
+Mouth
+bounds:191,53,11,19
+offsets:1,1,13,21
+rotate:90
+Rau L
+bounds:231,18,18,35
+offsets:1,1,20,37
+Rau R
+bounds:218,55,21,35
+offsets:1,2,23,38
+Wing L
+bounds:144,2,40,42
+rotate:90
+Wing R
+bounds:144,44,45,61

@@ -1,0 +1,76 @@
+Heroes-01-Cat.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.95
+01 Eye L
+bounds:179,47,32,40
+offsets:0,0,33,40
+01 Eye R
+bounds:172,5,32,40
+offsets:0,0,33,40
+01 Mouth
+bounds:213,58,33,31
+offsets:0,1,34,33
+rotate:90
+02 Eye L
+bounds:210,93,42,29
+offsets:1,0,44,30
+rotate:90
+02 Eye R
+bounds:220,144,42,29
+offsets:1,0,44,30
+rotate:90
+02 Mouth
+bounds:179,89,46,29
+offsets:1,1,47,31
+rotate:90
+03 Mouth
+bounds:177,137,41,33
+offsets:1,1,43,35
+Body
+bounds:2,39,86,94
+Bongdo
+bounds:215,188,66,21
+offsets:2,1,70,23
+rotate:90
+Foot L
+bounds:2,2,35,56
+rotate:90
+Foot R
+bounds:60,2,35,56
+rotate:90
+Hand L
+bounds:177,172,82,36
+offsets:0,0,82,37
+rotate:90
+Hand R
+bounds:90,52,81,36
+rotate:90
+Head
+bounds:2,135,133,119
+offsets:0,1,134,121
+Mi L
+bounds:241,108,15,13
+offsets:1,1,16,14
+rotate:90
+Mi R
+bounds:241,125,17,13
+offsets:1,1,19,14
+rotate:90
+Tai L
+bounds:118,2,52,48
+Tai R
+bounds:128,78,53,49
+offsets:1,0,54,49
+rotate:90
+Tail
+bounds:137,133,38,121
+offsets:0,1,38,123
+Water
+bounds:128,52,24,39
+offsets:1,1,26,41
+rotate:90
+cat01-eye
+bounds:213,36,20,23
+rotate:90

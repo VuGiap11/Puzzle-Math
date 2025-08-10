@@ -1,0 +1,29 @@
+Map-02-E-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body 01
+bounds:159,2,149,81
+rotate:90
+Body 02
+bounds:2,12,155,76
+offsets:0,1,155,78
+Bongdo
+bounds:2,163,44,14
+offsets:1,1,46,16
+Eye
+bounds:121,155,37,22
+offsets:1,1,39,24
+Foot R 01
+bounds:48,159,18,35
+offsets:1,1,20,37
+rotate:90
+Foot R 02
+bounds:85,158,19,34
+offsets:1,1,21,36
+rotate:90
+Hair
+bounds:2,90,127,63
+offsets:0,0,127,64
+Tail
+bounds:160,153,82,24

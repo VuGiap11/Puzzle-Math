@@ -1,0 +1,33 @@
+P-02-Egg.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Boc 01
+bounds:127,31,119,52
+offsets:1,1,121,54
+rotate:90
+Boc 02
+bounds:2,2,103,51
+offsets:1,1,105,53
+rotate:90
+Body
+bounds:2,107,123,101
+Bongdo
+bounds:55,5,70,21
+offsets:1,1,74,24
+rotate:90
+Bung
+bounds:127,152,56,55
+offsets:1,1,58,57
+rotate:90
+Eye L
+bounds:81,87,18,24
+offsets:1,1,20,26
+rotate:90
+Eye R
+bounds:78,49,21,26
+offsets:1,1,23,28
+Hair
+bounds:55,77,28,24
+offsets:1,1,30,26
+rotate:90

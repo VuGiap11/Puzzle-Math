@@ -1,0 +1,38 @@
+Enemy- Candy-03.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.95
+Body
+bounds:2,39,64,65
+rotate:90
+Bongdo
+bounds:69,38,65,21
+offsets:1,1,70,23
+rotate:90
+Cloak
+bounds:24,18,28,19
+Eye L
+bounds:54,26,7,11
+offsets:1,0,9,11
+Eye R
+bounds:54,13,7,11
+offsets:1,0,9,11
+Foot L
+bounds:84,22,22,14
+offsets:1,0,23,14
+Foot R
+bounds:84,6,22,14
+offsets:1,0,23,14
+Hand L
+bounds:63,17,19,19
+offsets:0,0,19,20
+Hand R
+bounds:2,17,20,20
+offsets:0,0,20,21
+May
+bounds:24,2,26,14
+offsets:0,0,27,14
+Wepon
+bounds:2,105,122,19
+offsets:1,1,124,21

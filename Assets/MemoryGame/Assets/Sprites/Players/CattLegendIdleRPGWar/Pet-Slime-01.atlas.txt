@@ -1,0 +1,24 @@
+Pet-Slime-01.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.96
+Body
+bounds:2,2,141,122
+Bongdo
+bounds:145,57,67,21
+offsets:1,1,71,23
+rotate:90
+Eye L
+bounds:168,73,22,30
+offsets:1,1,23,32
+rotate:90
+Eye R
+bounds:168,73,22,30
+offsets:1,1,23,32
+rotate:90
+Hair
+bounds:145,10,58,45
+Mouth
+bounds:168,97,45,27
+offsets:1,0,46,28

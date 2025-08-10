@@ -1,0 +1,31 @@
+Pet-Slime-05.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,74,147,127
+Bongdo
+bounds:110,2,70,21
+offsets:1,1,74,24
+rotate:90
+Eye L
+bounds:78,13,11,12
+offsets:1,1,13,14
+Eye R
+bounds:2,7,11,12
+offsets:1,1,13,14
+rotate:90
+Horn L
+bounds:151,55,52,74
+offsets:1,1,54,76
+Horn R
+bounds:2,20,52,74
+offsets:1,1,54,76
+rotate:90
+Mouth
+bounds:78,27,30,45
+offsets:1,1,32,47
+No
+bounds:151,131,70,60
+offsets:1,1,72,62
+rotate:90

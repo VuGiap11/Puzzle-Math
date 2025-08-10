@@ -1,0 +1,11 @@
+Cat-03-Qualac.png
+size:128,64
+filter:Linear,Linear
+pma:true
+Layer 30
+bounds:88,2,32,43
+offsets:1,1,34,45
+cat-toy
+bounds:2,7,38,84
+offsets:1,1,40,86
+rotate:90

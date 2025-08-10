@@ -1,0 +1,30 @@
+Map-07-E-02-Oc.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:138,49,119,78
+offsets:1,0,120,79
+rotate:90
+Bongdo
+bounds:2,2,45,13
+offsets:1,1,47,15
+Eye L
+bounds:2,17,75,53
+offsets:1,1,77,55
+rotate:90
+Eye R
+bounds:57,17,75,53
+offsets:1,1,77,55
+rotate:90
+Foot L 01
+bounds:112,61,17,31
+Foot R 01
+bounds:112,61,17,31
+Mouth
+bounds:2,94,134,74
+offsets:1,1,136,76
+Tail
+bounds:112,6,41,42
+offsets:1,1,43,44
+rotate:90

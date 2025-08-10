@@ -1,0 +1,70 @@
+Map-07-Boss-01-CaChim.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,224,273,233
+Body 02
+bounds:277,216,241,192
+offsets:1,1,243,194
+rotate:90
+Bongdo
+bounds:227,36,70,21
+offsets:2,1,74,24
+rotate:90
+Day 01
+bounds:227,140,119,22
+offsets:5,0,124,22
+Day 02
+bounds:82,17,52,22
+offsets:1,1,54,24
+rotate:90
+E  Mui
+bounds:273,167,11,15
+offsets:1,1,13,17
+rotate:90
+E Eye R
+bounds:370,183,46,31
+offsets:1,1,48,33
+E Foot R
+bounds:325,164,15,22
+offsets:1,1,17,24
+rotate:90
+E Hair
+bounds:227,108,25,30
+offsets:1,1,27,32
+E Hand L
+bounds:2,2,22,19
+offsets:1,1,24,21
+E Hand R
+bounds:2,23,21,21
+offsets:1,1,23,23
+E body
+bounds:2,46,78,92
+Eye L
+bounds:325,181,43,33
+offsets:1,1,45,35
+Eye R
+bounds:141,35,47,24
+offsets:1,1,49,26
+rotate:90
+Eye R 02
+bounds:273,180,50,34
+offsets:1,1,52,36
+Foot R 01
+bounds:82,71,57,67
+Foot R 02
+bounds:227,164,58,44
+offsets:0,1,59,45
+rotate:90
+Layer 111
+bounds:348,93,69,66
+offsets:1,1,71,68
+rotate:90
+Wing L
+bounds:2,140,139,82
+offsets:3,0,142,92
+Wing R
+bounds:143,84,138,82
+offsets:0,0,142,92
+rotate:90

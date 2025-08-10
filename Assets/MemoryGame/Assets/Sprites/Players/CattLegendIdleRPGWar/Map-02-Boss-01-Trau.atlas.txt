@@ -1,0 +1,80 @@
+Map-02-Boss-01-Trau.png
+size:256,512
+filter:Linear,Linear
+pma:true
+scale:0.93
+Body
+bounds:2,298,235,210
+offsets:1,0,236,210
+Bongdo
+bounds:213,149,65,20
+offsets:2,1,69,22
+rotate:90
+E Body
+bounds:110,8,31,35
+offsets:1,0,33,35
+E Eye
+bounds:183,9,33,21
+rotate:90
+E Foot L
+bounds:239,484,15,24
+offsets:1,0,17,24
+E Foot R
+bounds:228,216,16,24
+offsets:1,0,17,24
+rotate:90
+E Hand L 01
+bounds:228,248,26,13
+offsets:0,1,27,14
+E Hand L 02
+bounds:235,196,18,18
+offsets:1,1,20,19
+E Hand R 01
+bounds:228,234,12,26
+offsets:1,1,14,27
+rotate:90
+E Hand R 02
+bounds:235,177,17,17
+offsets:1,0,19,17
+E Head
+bounds:148,151,63,63
+E Mouth
+bounds:228,263,33,17
+offsets:0,0,33,18
+rotate:90
+Eye L
+bounds:143,17,38,25
+offsets:1,1,39,27
+Eye R
+bounds:148,44,53,35
+offsets:1,1,55,37
+Foot L
+bounds:202,87,49,60
+Foot R
+bounds:148,81,52,68
+Hair
+bounds:2,115,102,87
+Horn L
+bounds:2,6,107,62
+offsets:1,1,109,64
+rotate:90
+Horn R
+bounds:2,204,119,92
+offsets:1,22,121,114
+Mi L
+bounds:203,55,51,30
+offsets:1,1,53,31
+Mi R
+bounds:110,45,75,36
+offsets:1,0,77,37
+rotate:90
+Mouth 01
+bounds:123,216,103,80
+offsets:1,1,105,82
+Mouth 02
+bounds:106,122,80,40
+offsets:1,1,82,41
+rotate:90
+Tail
+bounds:66,2,42,111
+offsets:2,0,46,111

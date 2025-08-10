@@ -1,0 +1,44 @@
+Enemy-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,44,52,57
+Bongdo
+bounds:88,31,70,21
+offsets:1,1,74,24
+rotate:90
+Eye L
+bounds:133,21,16,25
+offsets:1,1,18,27
+rotate:90
+Eye R
+bounds:60,36,26,32
+offsets:1,1,28,34
+Foot L
+bounds:2,2,27,40
+Foot R
+bounds:31,2,27,40
+Hair
+bounds:2,103,122,77
+offsets:1,1,124,79
+Hand L 01
+bounds:111,39,43,15
+offsets:0,1,43,17
+Hand L 02
+bounds:56,70,30,31
+Hand R 01
+bounds:88,9,43,20
+Hand R 02
+bounds:60,5,26,29
+Head
+bounds:126,80,94,100
+offsets:1,1,96,102
+Mouth
+bounds:111,56,22,28
+offsets:1,1,24,30
+rotate:90
+Tai
+bounds:141,60,18,27
+offsets:1,1,20,29
+rotate:90

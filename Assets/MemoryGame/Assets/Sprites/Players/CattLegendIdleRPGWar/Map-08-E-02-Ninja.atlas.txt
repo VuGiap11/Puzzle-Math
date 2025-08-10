@@ -1,0 +1,49 @@
+Map-08-E-02-Ninja.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:127,75,47,67
+rotate:90
+Bongdo
+bounds:119,60,45,13
+offsets:1,1,47,15
+Cloak 01
+bounds:127,124,88,49
+offsets:1,1,90,51
+Cloak 02
+bounds:196,72,56,30
+offsets:1,1,58,32
+Cloak 03
+bounds:196,48,22,30
+offsets:1,1,24,32
+rotate:90
+Eye L
+bounds:196,106,15,16
+offsets:1,1,17,18
+Eye R
+bounds:166,44,28,29
+offsets:1,1,30,31
+Foot L
+bounds:217,104,31,40
+Foot R
+bounds:65,30,24,42
+rotate:90
+Hand L 01
+bounds:65,2,40,26
+offsets:1,1,42,28
+Hand L 02
+bounds:65,56,52,23
+Hand R 01
+bounds:217,146,36,27
+offsets:1,1,38,29
+Hand R 02
+bounds:119,29,29,44
+offsets:0,0,29,45
+rotate:90
+Head
+bounds:2,81,123,92
+offsets:1,1,125,94
+Wepon
+bounds:2,19,61,60
+offsets:1,1,63,62

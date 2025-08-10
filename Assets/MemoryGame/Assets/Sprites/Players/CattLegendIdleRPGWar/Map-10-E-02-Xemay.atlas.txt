@@ -1,0 +1,47 @@
+Map-10-E-02-Xemay.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Banh-01
+bounds:157,58,69,69
+offsets:9,6,87,81
+Body
+bounds:18,60,51,58
+offsets:1,0,52,58
+Bongdo
+bounds:2,2,45,13
+offsets:1,1,47,15
+rotate:90
+Eye L
+bounds:98,71,16,23
+offsets:1,1,18,25
+rotate:90
+Eye R
+bounds:228,47,25,30
+offsets:1,1,27,32
+Foot R 01
+bounds:228,79,23,48
+offsets:1,0,25,48
+Hand L 01
+bounds:78,9,59,29
+offsets:1,0,61,30
+rotate:90
+Hand R 01
+bounds:71,89,60,29
+offsets:0,1,61,30
+Head
+bounds:157,129,86,86
+offsets:1,1,88,88
+Mouth
+bounds:18,25,58,33
+offsets:1,1,60,35
+Tai
+bounds:71,70,17,25
+offsets:1,1,19,27
+rotate:90
+Xe 01
+bounds:2,120,153,95
+offsets:1,1,155,97
+Xe 02
+bounds:2,49,14,69
+offsets:1,5,17,75

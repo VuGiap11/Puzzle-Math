@@ -1,0 +1,41 @@
+Map-02-E-02.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:123,67,42,59
+offsets:1,0,43,59
+Bongdo
+bounds:2,2,44,14
+offsets:1,1,46,16
+Foot L
+bounds:167,68,18,28
+rotate:90
+Foot R
+bounds:123,41,17,24
+Hair 01
+bounds:167,88,38,35
+offsets:1,1,40,37
+rotate:90
+Hair 02
+bounds:149,3,37,38
+offsets:1,1,39,40
+Hair 03
+bounds:108,6,39,30
+offsets:1,1,41,32
+Hand L
+bounds:183,45,35,21
+Hand R
+bounds:142,43,39,22
+Head 01
+bounds:86,38,88,35
+offsets:1,1,90,38
+rotate:90
+Head 02
+bounds:2,18,108,82
+offsets:1,5,110,88
+rotate:90
+Luoi
+bounds:86,4,32,20
+offsets:1,1,34,22
+rotate:90

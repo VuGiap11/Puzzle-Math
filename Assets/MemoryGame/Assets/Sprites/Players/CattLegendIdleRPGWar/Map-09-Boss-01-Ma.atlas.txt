@@ -1,0 +1,28 @@
+Map-09-Boss-01-Ma.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:144,2,261,293
+rotate:90
+Bongdo
+bounds:263,409,70,21
+offsets:2,1,74,24
+Eye
+bounds:108,361,127,49
+offsets:1,1,129,51
+Hand L
+bounds:335,385,45,105
+offsets:0,0,46,105
+rotate:90
+Hand R
+bounds:2,365,45,104
+rotate:90
+Mat Na
+bounds:237,265,203,118
+Wepon 01
+bounds:2,412,18,259
+offsets:1,1,20,261
+rotate:90
+Wepon 02
+bounds:2,225,140,134

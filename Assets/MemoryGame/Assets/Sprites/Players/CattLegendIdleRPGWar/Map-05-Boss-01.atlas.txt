@@ -1,0 +1,35 @@
+Map-05-Boss-01.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:190,122,112,220
+rotate:90
+Bongdo
+bounds:382,50,70,21
+offsets:2,1,74,24
+rotate:90
+Eye L
+bounds:412,80,48,58
+offsets:1,1,50,60
+rotate:90
+Eye R
+bounds:72,10,60,70
+offsets:1,1,62,72
+rotate:90
+Hair 01
+bounds:190,30,90,190
+offsets:0,6,90,196
+rotate:90
+Hair 02
+bounds:405,21,58,57
+offsets:1,1,60,60
+Head
+bounds:2,72,186,162
+Star
+bounds:412,130,104,96
+offsets:1,1,106,98
+rotate:90
+Tail
+bounds:2,2,68,68
+offsets:1,1,70,70

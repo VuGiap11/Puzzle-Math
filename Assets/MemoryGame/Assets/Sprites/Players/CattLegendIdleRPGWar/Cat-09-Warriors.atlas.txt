@@ -1,0 +1,67 @@
+Cat-09-Warriors.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.9
+Body
+bounds:208,50,81,78
+rotate:90
+Bongdo
+bounds:2,5,63,20
+offsets:2,1,67,22
+Cloak
+bounds:461,70,55,46
+rotate:90
+Eye L
+bounds:332,94,31,37
+offsets:0,0,32,37
+rotate:90
+Eye R
+bounds:382,8,31,37
+offsets:0,0,32,37
+rotate:90
+Foot L 01
+bounds:427,33,32,51
+Foot R 01
+bounds:461,17,32,51
+Hair
+bounds:332,184,137,65
+offsets:1,1,138,67
+Hand L 01
+bounds:208,8,77,40
+offsets:0,1,77,41
+Hand R 01
+bounds:382,86,77,39
+offsets:0,0,78,41
+Head
+bounds:167,133,125,116
+Siel
+bounds:288,19,73,92
+offsets:0,0,74,92
+rotate:90
+Siel Foot L
+bounds:421,2,29,37
+offsets:0,0,30,37
+rotate:90
+Siel Foot R
+bounds:471,209,34,40
+Siel Head 01
+bounds:332,127,135,55
+Siel Head 02
+bounds:2,27,149,96
+Tai L
+bounds:382,41,43,43
+offsets:0,1,44,44
+Tai R
+bounds:469,131,51,38
+offsets:0,0,51,39
+rotate:90
+Tail
+bounds:167,16,115,39
+rotate:90
+Wepon 01
+bounds:2,125,124,163
+rotate:90
+Wepon 02
+bounds:294,94,36,155
+offsets:1,0,38,155

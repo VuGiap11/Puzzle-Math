@@ -1,0 +1,39 @@
+Map-10-E-03-Casi.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:90,168,59,79
+rotate:90
+Bongdo
+bounds:90,112,45,13
+offsets:1,1,47,15
+Eye
+bounds:90,127,55,39
+offsets:1,1,57,41
+Foot L
+bounds:171,200,27,44
+rotate:90
+Foot R
+bounds:171,200,27,44
+rotate:90
+Guitar
+bounds:2,2,146,71
+offsets:1,1,148,73
+Hand L 01
+bounds:147,111,32,17
+offsets:2,1,36,20
+Hand L 02
+bounds:171,173,45,25
+Hand R 01
+bounds:217,210,33,17
+offsets:2,1,36,20
+Hand R 02
+bounds:147,130,23,42
+rotate:90
+Head
+bounds:2,75,86,152
+offsets:1,1,88,154
+Mouth
+bounds:147,155,50,11
+offsets:1,1,52,13

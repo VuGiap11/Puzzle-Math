@@ -1,0 +1,76 @@
+Cat-14-Scooter.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,10,88,86
+rotate:90
+Bongdo
+bounds:90,2,70,21
+offsets:2,1,74,24
+Eye L
+bounds:377,26,28,31
+offsets:1,1,30,33
+Eye R
+bounds:314,54,36,31
+offsets:1,1,38,33
+rotate:90
+Foot L
+bounds:297,130,48,61
+Foot R
+bounds:235,125,52,60
+rotate:90
+Hand L
+bounds:222,43,75,38
+offsets:0,1,76,39
+rotate:90
+Hand R
+bounds:235,179,75,38
+rotate:90
+Hat
+bounds:2,100,154,74
+offsets:1,1,156,76
+rotate:90
+Head
+bounds:108,120,134,125
+offsets:1,1,136,127
+rotate:90
+Mouth
+bounds:162,7,27,16
+offsets:1,1,29,18
+S Banh 01
+bounds:345,21,31,30
+offsets:1,1,33,32
+rotate:90
+S Banh 02
+bounds:345,21,31,30
+offsets:1,1,33,32
+rotate:90
+S Banh 03
+bounds:347,59,31,30
+offsets:1,1,33,32
+rotate:90
+S Body
+bounds:78,111,143,28
+offsets:1,1,145,30
+rotate:90
+S Body 02
+bounds:90,25,84,130
+offsets:1,1,86,132
+rotate:90
+Tai L
+bounds:327,218,36,36
+offsets:1,1,38,38
+Tai R
+bounds:314,92,36,36
+offsets:1,1,38,38
+Tai nghe L
+bounds:275,193,50,61
+offsets:1,1,52,63
+Tai nghe R
+bounds:262,62,50,61
+offsets:1,1,52,63
+Tail
+bounds:222,3,38,121
+offsets:0,0,39,121
+rotate:90

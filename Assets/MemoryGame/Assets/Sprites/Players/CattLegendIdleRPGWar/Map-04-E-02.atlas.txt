@@ -1,0 +1,27 @@
+Map-04-E-02.png
+size:256,128
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,7,132,115
+Bongdo
+bounds:208,2,44,14
+offsets:1,1,46,16
+rotate:90
+Eye L
+bounds:224,27,14,19
+offsets:1,1,16,21
+Eye R
+bounds:208,85,27,37
+offsets:1,1,29,39
+Mouth
+bounds:224,12,13,19
+offsets:1,1,15,21
+rotate:90
+Mu
+bounds:136,2,120,70
+rotate:90
+Mui
+bounds:208,48,35,19
+offsets:1,1,37,21
+rotate:90

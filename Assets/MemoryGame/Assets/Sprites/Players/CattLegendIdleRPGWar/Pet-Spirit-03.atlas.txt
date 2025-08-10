@@ -1,0 +1,36 @@
+Pet-Spirit-03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,48,138,125
+rotate:90
+Bongdo
+bounds:194,88,70,21
+offsets:2,1,74,24
+rotate:90
+Eye 01
+bounds:129,13,67,61
+offsets:1,1,69,63
+Eye 02
+bounds:198,2,20,17
+offsets:1,1,22,19
+Eye 03
+bounds:208,175,67,41
+offsets:1,1,69,43
+rotate:90
+Hat 01
+bounds:2,188,139,54
+Hat 02
+bounds:198,21,55,47
+offsets:1,1,57,49
+rotate:90
+Mouth
+bounds:194,78,27,8
+offsets:1,1,29,10
+Wing L
+bounds:143,160,82,63
+rotate:90
+Wing R
+bounds:129,76,82,63
+rotate:90
