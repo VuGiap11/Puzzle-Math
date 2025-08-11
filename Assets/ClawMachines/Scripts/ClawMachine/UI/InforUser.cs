@@ -1,8 +1,8 @@
 
+using NailSalonGame;
 using NTPackage.UI;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 namespace Rubik.ClawMachine
@@ -106,7 +106,7 @@ namespace Rubik.ClawMachine
         public void SetAvatar()
         {
             this.avatar.sprite = DataAssets.Instance.imageAvar[UserManager.instance.useData.idAvar];
-            HomeController.instance.avartarPlayer.sprite = DataAssets.Instance.imageAvar[UserManager.instance.useData.idAvar];
+            HomeSceneController.Instance.avartarPlayer.sprite = DataAssets.Instance.imageAvar[UserManager.instance.useData.idAvar];
         }
     }
 }

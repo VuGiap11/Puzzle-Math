@@ -1,4 +1,5 @@
 using DG.Tweening;
+using NailSalonGame;
 using NTPackage.UI;
 using UnityEngine;
 using UnityEngine.UI;
@@ -117,7 +118,7 @@ namespace Rubik.ClawMachine
             //CheckOnOffButton();
 
             UserManager.instance.SaveData();
-            HomeController.instance.InitText();
+            HomeSceneController.Instance.InitText();
             Move();
         }
         private void AddCoin()
@@ -125,7 +126,7 @@ namespace Rubik.ClawMachine
             SoundController.instance.AudioButton();
             UserManager.instance.useData.numberCoin += 5;
             UserManager.instance.SaveData();
-            HomeController.instance.InitText();
+            HomeSceneController.Instance.InitText();
             this.canclickInternet = false;
             Move();
         }

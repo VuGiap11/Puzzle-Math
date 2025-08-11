@@ -1,4 +1,5 @@
 
+using NailSalonGame;
 using System;
 using TMPro;
 using UnityEngine;
@@ -122,7 +123,7 @@ namespace Rubik.ClawMachine
             if (this.rewardData.type == RewardType.rewardGold)
             {
                 UserManager.instance.useData.gold += this.rewardData.amount;
-                HomeController.instance.InitText();
+                HomeSceneController.Instance.InitText();
             }
             else
             {

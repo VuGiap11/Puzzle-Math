@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 using TMPro;
 using System.Threading.Tasks;
 using DG.Tweening;
+using Rubik.ClawMachine;
 namespace NailSalonGame
 {
     public class HomeSceneController : MonoBehaviour
@@ -28,6 +29,9 @@ namespace NailSalonGame
         public RectTransform mainbgScroll;
         private float toggleWidth;
         public int indexPanel = 2;
+
+        public TextMeshProUGUI goldText, coinNumbertext;
+        public Image avartarPlayer;
         #endregion
         // Start is called before the first frame update
         private void Awake()
@@ -38,6 +42,7 @@ namespace NailSalonGame
         }
         void Start()
         {
+            InitText();
             Invoke("Add", 0.2f);
         }
        
@@ -101,66 +106,31 @@ namespace NailSalonGame
                 textFps.text = "fps: "+ ((int)(1f / Time.deltaTime)).ToString();
             }
         }
+        public void GotoMergeScene()
+        {
 
-        public void btnLoadFreeSceen_Onclick()
+        }
+        public void GotoMemoryScene()
         {
-          //  Initiate.Fade(Config.scenePlayFree, Color.black, 1f);
-          ////  SceneManager.LoadScene(Config.scenePlayFree);
-          //  GameManager.instance.mode = GameModePlay.free;
+        }
+        public void GotoClawMachineScene()
+        {
+            SceneController.Instance.LoadToSceneGamePlay();
+        }
+        public void GotoLuckyScene()
+        {
+            SceneController.Instance.LoadToLukyBabyThreeGame();
+        }
 
-          //  if (AudioManager.Instance != null)
-          //      AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnLoadCopySceen_Onclick()
-        {
-            //Initiate.Fade(Config.scenePlayFree, Color.black, 1f);
 
-            //GameManager.instance.mode = GameModePlay.copy;
+        public void InitText()
+        {
+            this.avartarPlayer.sprite = DataAssets.Instance.imageAvar[UserManager.instance.useData.idAvar];
+            this.goldText.text = UserManager.instance.useData.gold.ToString();
+            this.coinNumbertext.text = UserManager.instance.useData.numberCoin.ToString();
+            //Debug.Log("idavar" + UserDataController.instance.dataPlayerController.idAvar);
+        }
 
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnLoadAlbumSceen_Onclick()
-        {
-            //Initiate.Fade(Config.sceneAlbum, Color.black, 1f);
-            //GameManager.instance.mode = GameModePlay.album;
-
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnLoadFootSceen_Onclick()
-        {
-            //Initiate.Fade(Config.sceneFoot, Color.black, 1f);
-            //GameManager.instance.mode = GameModePlay.free;
-
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnStickers_Onclick()
-        {
-            //panelStickers.SetActive(true);
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnPanelNailColor_Onclick()
-        {
-            //panelNailColor.SetActive(true);
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void btnPanelPatern_Onclick()
-        {
-            //panelPatern.SetActive(true);
-            //if (AudioManager.Instance != null)
-            //    AudioManager.Instance.PlaySfx(SfxName.clickButton);
-        }
-        public void GotoAlbumScene()
-        {
-        }
-        
-       
-
-        
     }
 }
 

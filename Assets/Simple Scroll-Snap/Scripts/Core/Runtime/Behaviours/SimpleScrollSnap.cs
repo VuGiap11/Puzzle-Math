@@ -386,7 +386,8 @@ namespace DanielLochner.Assets.SimpleScrollSnap
 
                     float contentWidth  = (movementAxis == MovementAxis.Horizontal) ? (NumberOfPanels * (automaticLayoutSpacing + 1f) * size.x) - (size.x * automaticLayoutSpacing) : size.x;
                     float contentHeight = (movementAxis == MovementAxis.Vertical)   ? (NumberOfPanels * (automaticLayoutSpacing + 1f) * size.y) - (size.y * automaticLayoutSpacing) : size.y;
-                    Content.sizeDelta = new Vector2(contentWidth, contentHeight);
+                    //Content.sizeDelta = new Vector2(contentWidth, contentHeight);
+                    Content.sizeDelta = new Vector2(contentWidth + 600, contentHeight);
                 }
 
                 // Infinite Scrolling

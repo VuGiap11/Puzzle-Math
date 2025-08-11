@@ -17,5 +17,6 @@ namespace Rubik.ClawMachine
         public static string MergeGameScene = "MergePlayGame";
         public static string BabythreeSweetSagaScene = "BabythreeSweetSaga";
         public static string BabythreeLuckyScene = "LuckyGame";
+        public static string HomeScene = "HomeScene";
     }
 }

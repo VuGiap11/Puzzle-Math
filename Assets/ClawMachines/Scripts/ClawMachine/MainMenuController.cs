@@ -72,7 +72,7 @@ public class MainMenuController : MonoBehaviour
             StopCoroutine(loading);
         }
         itemLoading.StopAnimLoading();
-        SceneController.Instance.LoadToSceneStartGame();
+        SceneController.Instance.LoadToHomeScene();
     }
     public void LoadData()
     {

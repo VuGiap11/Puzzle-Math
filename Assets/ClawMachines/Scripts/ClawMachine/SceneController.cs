@@ -94,7 +94,11 @@ namespace Rubik.ClawMachine
         {
             PopupManager.Instance.OnUI(PopupCode.LoadingUI);
             SceneManager.LoadScene(Contans.BabythreeLuckyScene);
-
+        }
+        public void LoadToHomeScene()
+        {
+           // PopupManager.Instance.OnUI(PopupCode.LoadingUI);
+            SceneManager.LoadScene(Contans.HomeScene);
         }
     }
 }
