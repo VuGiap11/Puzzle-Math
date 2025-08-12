@@ -60,7 +60,7 @@ namespace Rubik.ClawMachine
             //    GameController.instance.ResetTime();
 
             //});
-            DOVirtual.DelayedCall(2.5f, () =>
+            DOVirtual.DelayedCall(3f, () =>
             {
                 HideCard();
                 GameMemoryController.instance.ResetTime();

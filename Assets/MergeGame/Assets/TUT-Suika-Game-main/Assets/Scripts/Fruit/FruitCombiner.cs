@@ -46,7 +46,7 @@ namespace Rubik.MergeGame
                             else
                             {
                                 Vector3 middlePosition = (transform.position + collision.transform.position) / 2f;
-                                GameObject go = Instantiate(SpawnCombinedFruit(_info.FruitIndex), GameManager.instance.transform);
+                                GameObject go = Instantiate(SpawnCombinedFruit(_info.FruitIndex), ThrowFruitController.instance._parentAfterThrow);
                                 go.transform.position = middlePosition;
 
                                 ColliderInformer informer = go.GetComponent<ColliderInformer>();

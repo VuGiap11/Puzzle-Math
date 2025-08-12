@@ -11,7 +11,7 @@ namespace Rubik.MergeGame
 
         public GameObject CurrentFruit { get; set; }
         [SerializeField] private Transform _fruitTransform;
-        [SerializeField] private Transform _parentAfterThrow;
+        public Transform _parentAfterThrow;
         [SerializeField] private FruitSelector _selector;
 
         // private PlayerController _playerController;

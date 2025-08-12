@@ -62,7 +62,7 @@ namespace Rubik.ClawMachine
         }
         public void LoadToSceneStartGame()
         {
-            SceneManager.LoadScene(Contans.StartScene);
+            SceneManager.LoadScene(Contans.HomeScene);
             SoundController.instance.PlayContinueMusicBackGround();
         }
         public void LoadToSceneGamePlay()

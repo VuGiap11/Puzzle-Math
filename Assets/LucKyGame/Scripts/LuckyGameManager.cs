@@ -372,6 +372,7 @@ namespace Rubik.LuckyGame
         {
             SoundController.instance.AudioButton();
             SceneController.Instance.LoadToSceneStartGame();
+            PopupManager.Instance.OnUI(PopupCode.LoadingUI);
         }
     }
 }

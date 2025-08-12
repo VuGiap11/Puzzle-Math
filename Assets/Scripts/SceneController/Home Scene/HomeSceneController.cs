@@ -28,7 +28,7 @@ namespace NailSalonGame
         public RectTransform scrollnapTransform;
         public RectTransform mainbgScroll;
         private float toggleWidth;
-        public int indexPanel = 2;
+        public int indexPanel = 0;
 
         public TextMeshProUGUI goldText, coinNumbertext;
         public Image avartarPlayer;
@@ -42,7 +42,7 @@ namespace NailSalonGame
         }
         void Start()
         {
-            InitText();
+           // InitText();
             Invoke("Add", 0.2f);
         }
        
@@ -74,14 +74,14 @@ namespace NailSalonGame
                 index++;
             }
             // Pagination
-            Invoke("SetPositionPanelElemen", 0.2f);
+           Invoke("SetPositionPanelElemen", 0.2f);
         }
         void SetPositionPanelElemen()
         {
             
             for(int i=0; i< transformsLayout.Length; i++)
             {
-                scrollSnap.Content.GetChild(i).transform.position = new Vector3(transformsLayout[i].transform.position.x, scrollSnap.Content.GetChild(i).transform.position.y, scrollSnap.Content.GetChild(i).transform.position.z);
+                scrollSnap.Content.GetChild(i).transform.position = new Vector3(transformsLayout[i].transform.position.x, scrollSnap.Content.GetChild(i).transform.position.y, scrollSnap.  Content.GetChild(i).transform.position.z);
             }
             scrollSnap.GoToPanel(this.indexPanel);
         }
@@ -108,14 +108,19 @@ namespace NailSalonGame
         }
         public void GotoMergeScene()
         {
-
+            SceneController.Instance.LoadToSceneMergeGame();
         }
         public void GotoMemoryScene()
         {
+            SceneController.Instance.LoadToSceneMemoryGame();
         }
         public void GotoClawMachineScene()
         {
             SceneController.Instance.LoadToSceneGamePlay();
+        }
+        public void GotoSweetBabyScene()
+        {
+            SceneController.Instance.LoadToLukyBabyThreeGame();
         }
         public void GotoLuckyScene()
         {

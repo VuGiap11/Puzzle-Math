@@ -9,7 +9,7 @@ namespace Rubik.ClawMachine
         {
             base.OnUI(data);
             GameMemoryController.instance.StartConfety();
-            DOVirtual.DelayedCall(3.5f, delegate
+            DOVirtual.DelayedCall(4.5f, delegate
             {
                 this.OffUI();
             });
